@@ -1,0 +1,1001 @@
+Donor ID,Age,Gender,Location,Income Level,Donation Amounts,Frequency,Date of Donations,Donation Channels,Donor Segmentation,Event Type
+a8243630-9e1a-48aa-8eee-3140c7c98b33,64,Male,Port Timothyton,Medium,55.08,Quarterly,2020-12-05,Online,Repeat donor,Auction
+dd7016f3-2713-4e92-ac57-d0b2fe1b807d,18,Male,Anthonymouth,Low,59.2,Quarterly,2020-02-26,Events,Major donor,Auction
+42351320-986c-40ae-a102-b213394c2e16,59,Female,Hannahmouth,Low,956.82,Monthly,2022-08-18,Online,Repeat donor,Auction
+7d178b91-4d9b-4aec-9e24-665abd66b2e4,58,Female,South Vickiville,Low,326.12,Annually,2020-08-30,Events,Major donor,Auction
+29afdcf4-dfce-4a9c-82c7-a2d976f16062,32,Male,Lake Shannon,High,792.06,Monthly,2022-01-26,Events,Major donor,Gala
+8b994c36-adeb-40af-8a7e-603ecd47b2f6,77,Male,Lake Joshuachester,High,311.87,Annually,2020-05-01,Online,Major donor,Auction
+44d14996-abe3-4fd7-b5dd-d75ab69dd430,29,Male,Sarahmouth,Low,259.05,Annually,2023-03-18,Mail,Major donor,Marathon
+4e612225-30fc-4fe5-8be9-9e8ed20ee24f,55,Non-binary,Kaylaberg,Medium,449.71,Monthly,2023-02-18,Mail,Repeat donor,Dinner
+801a1283-0375-47ce-aebb-f0d2cf083b66,71,Male,South Williamside,Medium,982.55,Quarterly,2023-05-14,Online,Repeat donor,Dinner
+6d6ef063-27a9-4432-ab93-6e939b4fd722,57,Female,Nataliechester,High,69.82,Quarterly,2020-12-08,Online,Repeat donor,Dinner
+6e974bb6-9243-4244-bf9f-49747c79cbc7,68,Male,Hayesfort,Medium,577.9,Annually,2022-09-12,Online,Major donor,Gala
+a3c3b3e5-1a6e-4499-8fa8-01fb86501b58,65,Female,Port Heatherview,Medium,162.53,Monthly,2021-10-21,Online,First-time donor,Dinner
+0be94088-a190-4438-a3ea-a7982b73ed1e,40,Male,Houseburgh,High,589.04,Quarterly,2021-06-21,Mail,First-time donor,Marathon
+09be9377-6d81-4eb3-a84a-0bc91acbcd56,41,Non-binary,Bradleyview,Low,384.69,Annually,2024-01-30,Online,First-time donor,Marathon
+6620525e-33cd-4b5f-a7b5-301af7298af3,75,Female,New Donna,Medium,814.64,Monthly,2023-04-20,Online,Repeat donor,Gala
+b12a9967-2961-40a5-a98c-825210d174af,26,Female,Smithside,Low,649.07,Annually,2023-10-06,Events,Repeat donor,Marathon
+ff3fee93-8867-43e3-830b-e5d42b0307d7,62,Female,Ellismouth,Low,916.06,Monthly,2022-09-24,Online,First-time donor,Dinner
+b6070e50-4096-485b-bb00-e7a5fe38b874,29,Female,Garciaside,Medium,639.48,Quarterly,2023-02-13,Events,First-time donor,Marathon
+df1e1dc6-2cc4-418c-94bc-1bb3320ef0e7,73,Female,Andrewsport,High,773.1,Monthly,2020-02-13,Events,Major donor,Gala
+cebe7e76-fb9b-44ce-a92a-98d4b70876e6,37,Non-binary,North Jonathanton,Low,115.43,Monthly,2020-09-19,Events,Major donor,Gala
+042466fd-c27b-4a7f-89c4-bf0bddca6010,22,Female,East Debramouth,Low,910.88,Annually,2022-01-18,Online,Repeat donor,Dinner
+8b647701-228a-4054-b481-99b3079c72c8,68,Female,Richardland,High,747.32,Annually,2022-11-27,Online,First-time donor,Dinner
+c41be8b7-1fca-4ccf-a9d2-b676264ae9f1,67,Female,Lisachester,High,236.57,Monthly,2023-08-16,Online,Major donor,Auction
+2c377d95-d3d3-49a9-9396-490e95a0333b,67,Male,Port Amber,High,372.54,Monthly,2020-04-15,Mail,First-time donor,Dinner
+ed1ffe48-f675-48a3-9982-6b7853212540,31,Male,East Lisa,Low,718.65,Quarterly,2023-04-19,Mail,Repeat donor,Gala
+53bb9477-7541-4594-b3c6-e1d5f1364a2f,57,Female,South Melissafurt,High,867.29,Monthly,2020-08-27,Online,Repeat donor,Marathon
+0b7a2eb7-2489-4db8-9b02-aa783f92052f,27,Female,Gallagherfort,Low,811.05,Monthly,2021-03-09,Events,Repeat donor,Auction
+523f14db-a1f4-44b0-961f-adfbbd2a193b,71,Female,Lake Walter,Medium,514.33,Monthly,2022-05-28,Online,Major donor,Auction
+28a55e78-2289-42a6-8c1d-1975686f1a89,37,Non-binary,Lake Jeremyberg,Low,315.64,Annually,2020-02-13,Online,Major donor,Dinner
+a1f932c1-7c64-47b3-b23f-7d2375dab65e,78,Non-binary,Camachoton,Low,159.91,Annually,2023-07-05,Mail,Major donor,Gala
+305ab974-966e-4760-9e26-9f4ab44ea509,62,Male,Joshuamouth,Low,788.99,Quarterly,2020-01-11,Events,Repeat donor,Dinner
+2a5e6323-1331-4714-9c1b-638650043f73,36,Male,Arnoldton,Medium,646.86,Annually,2023-03-17,Events,Major donor,Gala
+e8ca267b-f444-4556-860e-7b297c427404,70,Non-binary,Lake Caroline,Low,13.24,Annually,2023-01-25,Events,Major donor,Dinner
+b7f3d0a5-7d8b-46a1-b37e-16ed13f3b25e,40,Non-binary,West Victoriaport,High,988.4,Quarterly,2022-06-09,Online,First-time donor,Gala
+9f824fc2-bf71-4977-9ad4-cefda11f33cb,49,Male,North Nicoleborough,High,835.63,Quarterly,2022-09-23,Mail,First-time donor,Gala
+ceaee01f-ebd4-4722-b05c-8414a8ff497d,39,Non-binary,Nelsonland,Low,999.84,Annually,2022-11-10,Events,First-time donor,Auction
+af2208db-9c94-4ec4-a324-b73919698f48,51,Non-binary,Kathleenport,Medium,221.95,Quarterly,2020-05-07,Events,Major donor,Auction
+9d4df26f-086a-4a29-8d0f-f6f4d9fa4c86,43,Non-binary,Alexanderstad,Low,933.21,Quarterly,2021-06-18,Online,Major donor,Marathon
+a8bf8eca-cbc5-4af1-8c88-192e590088f8,27,Male,South Rebecca,Medium,585.66,Annually,2022-03-15,Mail,Repeat donor,Marathon
+b3c63726-996f-4364-96aa-b30e31acfd68,24,Female,West Thomasburgh,Medium,737.13,Quarterly,2024-05-08,Online,Repeat donor,Gala
+dae67da6-8dcc-410a-ac9f-86dcf903aba8,55,Non-binary,North Victoria,Low,589.17,Monthly,2021-03-11,Events,First-time donor,Marathon
+95c18871-d327-4005-86a1-4a07b65fdc63,25,Non-binary,East Brenda,Low,154.19,Quarterly,2021-05-03,Mail,First-time donor,Marathon
+bab773c0-56ef-45d6-92b7-30fbab46b888,57,Female,West Rebecca,Medium,992.4,Monthly,2022-12-30,Mail,Repeat donor,Marathon
+2c8f2e27-4605-47ca-8d7b-f2c87d7491b1,32,Non-binary,New Jessica,Low,38.27,Quarterly,2022-12-06,Online,Repeat donor,Auction
+a26fe450-4d7a-4e1e-82de-663c8c161c1d,44,Non-binary,Lake Todd,Medium,596.34,Monthly,2020-11-26,Events,Major donor,Dinner
+a319b99f-eaf2-4a04-b04b-ab338c89a55c,18,Non-binary,Williamhaven,High,943.8,Annually,2020-06-11,Online,First-time donor,Gala
+6a873060-4e56-4185-ad37-bc2624c2a4f2,43,Non-binary,Thomaschester,High,818.21,Quarterly,2021-05-15,Online,First-time donor,Marathon
+e4f246fd-f49b-4e75-aa39-06e0fac6a2bb,74,Non-binary,Wilcoxberg,High,868.57,Annually,2024-04-23,Mail,First-time donor,Marathon
+cc4042ac-8c96-4a63-affb-4c8b9cac2b96,56,Male,Amberton,Low,144.86,Annually,2024-03-29,Mail,Repeat donor,Dinner
+2b204b28-292e-40c8-8fa6-53143ba532c3,73,Non-binary,New Ashleyborough,Low,882.18,Monthly,2022-09-30,Online,Repeat donor,Auction
+1af3db5d-73cd-4cc0-9d4d-561b37ee950c,19,Female,Port Monicaborough,Low,19.14,Monthly,2023-04-15,Events,First-time donor,Gala
+2af2aaea-ae1c-42d3-8dbc-c5edffd88462,60,Female,East Christopher,High,451.99,Quarterly,2024-01-25,Events,Major donor,Gala
+c3534d43-a4e3-43f7-aee7-33b9b873ec49,33,Male,East Linda,Low,728.46,Annually,2021-05-15,Online,Major donor,Dinner
+8d29ca47-2fb2-4066-bb22-b775660621a9,61,Non-binary,Lake Craigborough,Medium,55.69,Quarterly,2021-12-08,Online,First-time donor,Auction
+c8a843ef-6541-4129-a951-979c2d892b42,19,Non-binary,West Linda,Medium,729.14,Quarterly,2022-07-22,Online,Repeat donor,Gala
+c8e7e129-63b2-4b96-afea-2e212c8baf7c,21,Female,West Diane,Low,380.23,Quarterly,2020-05-14,Mail,First-time donor,Dinner
+1ca20b43-4c1a-4704-8306-e4dede927a88,26,Female,East Joseph,High,880.71,Monthly,2024-02-21,Mail,Major donor,Marathon
+0b5bf7bf-a2da-4fd3-aac2-6ac387f23ed1,70,Non-binary,Coxfort,Low,716.1,Quarterly,2022-10-06,Online,First-time donor,Gala
+3fab710a-f09e-41a4-8a0c-e8e472276742,48,Male,Port Robertberg,Medium,332.51,Monthly,2020-03-21,Events,First-time donor,Marathon
+e43f2795-9797-44f8-ae03-44d7ae108796,52,Male,Lake Robert,Medium,119.97,Monthly,2020-05-21,Events,Repeat donor,Dinner
+5a1a582a-a730-4ba2-bc50-b4f4a37fdc46,76,Male,Lake Michael,High,760.35,Annually,2022-04-05,Online,Major donor,Auction
+4cebcd10-461b-465e-aeb4-43c0cf47001b,63,Female,Andersonhaven,Low,676.29,Monthly,2023-04-22,Events,Repeat donor,Dinner
+872b26b7-9159-4d36-970e-d4aa38e266eb,80,Female,Thomasberg,High,716.62,Annually,2022-07-29,Mail,Major donor,Marathon
+25b49761-1df1-4cea-b924-1cae03772778,29,Male,Ianmouth,High,651.26,Quarterly,2021-04-06,Mail,First-time donor,Gala
+cf547e4a-4d86-43b3-940a-778a912eeed7,39,Non-binary,Michealstad,Medium,107.9,Quarterly,2021-12-26,Mail,First-time donor,Gala
+53c4a22e-e313-4d60-bbc5-be85c11fbad0,49,Female,South Taylor,Low,512.9,Monthly,2021-08-16,Events,Major donor,Marathon
+730915fd-ef18-4c80-9551-a5e9314e477b,65,Male,East Judithberg,Low,630.48,Annually,2022-04-22,Events,Major donor,Dinner
+73786f39-9327-49dc-ae10-0d2fa4c3a30e,62,Non-binary,Danielborough,High,591.7,Quarterly,2024-04-19,Online,First-time donor,Dinner
+dba1c013-5a8a-4285-aeaa-c7f78f82c3d1,61,Non-binary,North Samantha,High,554.23,Quarterly,2024-03-19,Online,First-time donor,Dinner
+16f282ec-c3ef-4910-8dd7-fd1f2e60686f,55,Non-binary,Port Wayne,Low,782.09,Monthly,2021-01-15,Events,Repeat donor,Marathon
+1490fd35-3842-4e44-a35a-7af8fcbcd355,49,Non-binary,Gambleton,High,433.94,Quarterly,2021-11-22,Mail,Major donor,Dinner
+30924071-cb60-47cf-a929-4600520def09,74,Female,New Cindy,Low,315.0,Quarterly,2022-09-21,Mail,Repeat donor,Auction
+3db2b1c1-2380-40d3-9867-03762b30473b,43,Non-binary,West Kimberly,High,395.16,Annually,2020-02-15,Events,Repeat donor,Dinner
+706568b0-56ef-4c66-8c7a-2535127cacfc,56,Non-binary,South Davidshire,Low,814.39,Annually,2023-10-26,Mail,Major donor,Gala
+bff88b67-2370-49ae-993f-3b41ea41af54,34,Male,Kaneton,Low,866.02,Annually,2022-01-02,Mail,First-time donor,Gala
+68d5b83e-a96a-44d7-aff8-cd58e69c0ec7,32,Male,Juliachester,Low,682.21,Monthly,2020-06-16,Mail,Repeat donor,Dinner
+39d98b9a-3585-4815-8337-09df26cd92cf,35,Non-binary,Nguyenbury,Medium,521.9,Quarterly,2024-02-17,Events,Major donor,Gala
+8f48900a-98f6-4c2f-a543-275d4f1415d5,59,Male,Rogerstad,High,214.06,Quarterly,2020-07-04,Events,Repeat donor,Auction
+aaba1070-1eba-47ba-a435-4ba5262db646,18,Non-binary,West Traceyshire,Low,314.97,Monthly,2021-06-04,Online,First-time donor,Dinner
+0c4e1b43-bb76-41be-a8fb-1a78e8a9de17,21,Female,Phillipside,High,925.48,Quarterly,2020-05-09,Online,First-time donor,Dinner
+02b899a1-6409-44bf-aa4f-1a3c98aad7fa,32,Female,Mooreborough,Medium,199.09,Annually,2021-10-05,Events,Major donor,Gala
+e4108850-0559-482c-a415-892c5f466691,44,Male,Phillipsburgh,Medium,415.73,Monthly,2021-10-10,Mail,Major donor,Marathon
+a32b0cca-23bd-430b-bb7f-663b1073222d,47,Non-binary,New Heather,High,413.67,Annually,2021-03-18,Online,Major donor,Dinner
+98ab812c-9e2a-4157-a825-1d4aa8a9d916,52,Non-binary,Welchmouth,Medium,844.51,Annually,2024-03-02,Online,Major donor,Auction
+1492a1d8-8860-4142-b986-262a7b2c5265,30,Non-binary,Dorisport,Medium,662.68,Annually,2022-09-19,Events,Major donor,Auction
+b94db068-9aab-4ead-90c5-a2ff969ec59b,48,Non-binary,East Elizabethmouth,High,678.84,Annually,2024-05-05,Online,Major donor,Marathon
+1030d80b-6f25-405b-8e4a-17ba99df5bcd,26,Non-binary,South Jason,Medium,270.16,Annually,2021-03-27,Mail,Major donor,Gala
+43efc280-9fb5-45c5-bb1f-7178af2b3077,66,Male,North Susan,Medium,119.43,Quarterly,2020-02-07,Mail,First-time donor,Auction
+03658f7c-72fe-4241-9607-2bcc8c74a225,34,Female,Port Matthew,Medium,314.12,Quarterly,2023-01-26,Mail,Repeat donor,Gala
+a1baeeb8-e38e-4c2a-aa12-6df8848a92d9,51,Female,Mcmahonbury,Medium,44.75,Annually,2021-09-13,Online,First-time donor,Auction
+f4d64380-0af3-496c-a6ac-7eafcade862c,31,Non-binary,Craighaven,Low,479.46,Annually,2020-07-02,Events,Major donor,Dinner
+b55e67a4-f208-40b1-9b62-5f5fa8a685bf,76,Non-binary,Michelleshire,Low,733.82,Quarterly,2022-06-22,Events,First-time donor,Dinner
+11106554-be86-4939-8ece-449b9aa64ec6,35,Non-binary,New Brianmouth,Medium,911.18,Annually,2020-10-19,Mail,Major donor,Dinner
+46e6662f-8c65-4d8a-b9c4-22dac47fd768,34,Female,Johntown,Low,779.55,Quarterly,2020-08-15,Online,Major donor,Dinner
+f221d04b-0b6d-4710-884a-c6264a7bea6c,48,Female,Lake Stevenbury,Low,772.93,Annually,2021-07-27,Events,First-time donor,Marathon
+74ae8d8c-b7bd-4597-a246-cb13660cda11,32,Non-binary,East Anthony,High,965.24,Monthly,2024-03-02,Mail,First-time donor,Marathon
+643e0f5f-5282-40ec-bbb2-955b89bfaa3c,74,Female,Port Barbara,Medium,727.0,Annually,2021-12-13,Mail,Repeat donor,Auction
+315bc1b9-3094-4e8f-9628-8ac97a1dc2e1,71,Female,New Bradleyberg,High,539.91,Monthly,2024-04-02,Mail,Major donor,Auction
+98f27d73-2cdd-4d83-b3bc-90e27ed232ce,63,Male,North Curtisfurt,High,954.68,Monthly,2023-04-14,Online,Major donor,Auction
+f630a2a4-3500-423e-b63b-e1946a638f62,32,Male,New James,High,257.64,Monthly,2023-04-11,Events,Major donor,Marathon
+6a3ec749-0c8f-4f02-b406-0b3a4c839348,36,Male,Youngmouth,Low,73.23,Monthly,2023-03-27,Events,Major donor,Marathon
+757b94cb-02cc-46e1-b85a-124574ee3465,29,Non-binary,Deborahport,High,711.93,Annually,2020-12-19,Mail,First-time donor,Dinner
+217afcbd-2281-464e-abb8-359945bf4bd6,77,Female,Kirkville,Low,517.96,Annually,2020-11-19,Mail,Repeat donor,Marathon
+0a170ed6-264a-4ea2-bca2-21b0e61c2f9c,59,Non-binary,East Joel,Medium,965.21,Quarterly,2022-11-30,Events,Major donor,Auction
+aa5accd1-6dc6-4777-86af-b0af88a1e519,48,Male,Stewartfort,High,185.34,Monthly,2021-07-01,Online,Major donor,Auction
+cf4cdba2-0890-41d5-83d3-f5693923a31d,42,Non-binary,Barrettton,Medium,703.17,Quarterly,2021-03-13,Mail,Repeat donor,Dinner
+2c5e811d-3008-4958-b0d6-1c22bb1007de,20,Male,West Kevintown,Low,904.15,Annually,2022-11-02,Online,First-time donor,Gala
+09917ce0-41ef-4c42-b9b1-0cac31bd7be0,27,Female,South Rebeccaview,Low,884.24,Quarterly,2020-10-04,Mail,Major donor,Auction
+13f9fa55-bdcd-419e-9620-ad0b093b9816,69,Male,New Jamieshire,Low,911.07,Monthly,2021-04-12,Events,First-time donor,Gala
+3ffe632e-ca86-4fee-a154-5f833cb27b53,46,Male,East Kylie,Medium,850.08,Quarterly,2022-06-15,Mail,First-time donor,Marathon
+232b0eb7-85dc-4cd0-827b-05e93b7123b3,30,Female,West Amber,Low,522.02,Quarterly,2020-05-28,Online,Major donor,Dinner
+7e32cbb1-6548-498e-92ab-27b915ad0694,69,Male,West Isaac,Medium,300.78,Monthly,2023-10-27,Online,Major donor,Auction
+ec1ec80b-e8fc-4041-b8dc-e58a5fd0a75e,20,Non-binary,Grahamshire,Medium,141.11,Quarterly,2021-03-31,Online,Major donor,Gala
+b8bca2b5-943b-4719-b557-2fb83f73dd2e,21,Male,South Jefferymouth,High,584.81,Annually,2024-03-10,Mail,Major donor,Marathon
+46316447-36df-4da0-8172-151d460a9b8d,69,Female,Allisonshire,Medium,426.1,Monthly,2022-03-01,Mail,Major donor,Gala
+cba43a21-c755-4716-bd3c-ccb339ba69cd,64,Female,Lake Lorimouth,Low,441.73,Annually,2023-02-05,Mail,First-time donor,Dinner
+83ea6688-92bc-43c2-b721-9f23daca8972,20,Non-binary,Jenningsview,Medium,716.65,Monthly,2023-06-30,Events,First-time donor,Marathon
+6ad8cb0d-45ad-46a6-8ca5-15df5eb5cfaa,70,Male,West John,Medium,855.3,Annually,2024-05-20,Online,Major donor,Dinner
+d9294fb3-c82d-4e1b-9fae-e45b30984c3e,76,Non-binary,West Tanyamouth,Low,777.75,Annually,2021-07-14,Online,Major donor,Dinner
+1dbf60b1-67f8-43e7-a4b1-327a77bb3404,74,Non-binary,Lake Brandon,Low,302.51,Monthly,2020-03-21,Events,Repeat donor,Gala
+cd37f3d3-f890-46f1-8937-08160bdc1de3,24,Female,Georgeview,High,955.28,Annually,2020-03-04,Mail,First-time donor,Marathon
+2490548c-f100-49df-978b-b3f0f86da702,29,Female,Davidview,Medium,648.3,Quarterly,2020-06-02,Mail,First-time donor,Auction
+a340d43a-c530-460b-a9e6-9111eaa0b5d9,68,Female,Erikland,High,542.98,Annually,2022-11-06,Events,Major donor,Marathon
+28357ebd-13b3-439c-95d4-ea2f64b40687,57,Female,Nancymouth,High,149.22,Quarterly,2021-06-28,Online,Major donor,Gala
+2a10c6cd-653a-450f-8c57-1686ae673b43,55,Female,Port Alexa,Low,762.53,Monthly,2020-07-11,Events,Major donor,Marathon
+2dd98ff1-8339-4450-a3d9-25131883cd64,31,Male,Port Jennifer,High,147.3,Quarterly,2020-03-27,Online,Major donor,Dinner
+9000caa5-6b4e-4e84-82ac-0b6c749a764d,40,Female,Zimmermanhaven,High,808.49,Quarterly,2020-12-23,Events,Major donor,Dinner
+6a0ec8aa-8702-4f17-8495-e80a7b7cdbfb,20,Male,Lauraland,Medium,239.36,Monthly,2021-07-03,Mail,First-time donor,Dinner
+1effb8e8-d6d1-4657-9cf7-1abef89f1749,77,Male,Christopherville,Medium,200.97,Quarterly,2021-11-23,Mail,Repeat donor,Dinner
+fd1f2e1f-1d22-4024-a4dd-954ad9b8ce40,79,Non-binary,Lake Danielle,High,140.07,Annually,2022-05-29,Mail,Repeat donor,Auction
+2a91d9f0-5a42-43bb-8875-3f7d827e4637,40,Non-binary,Jenniferton,Medium,763.46,Quarterly,2022-06-18,Mail,Major donor,Gala
+2060e0b5-4dd0-4c7a-b890-2cc38adc7d55,46,Female,Waterschester,Medium,628.56,Monthly,2023-09-16,Online,First-time donor,Auction
+d0e1e21d-d0d6-4b23-9b20-397b51eb8e51,42,Male,Port Janetstad,High,470.83,Quarterly,2021-06-25,Events,Major donor,Gala
+b6e6ceb2-b6de-414b-b5e8-73ae26da2dd9,19,Non-binary,Jenniferview,Low,618.74,Monthly,2020-02-28,Mail,First-time donor,Dinner
+b57caf2c-9e5d-49b7-bc07-b27bc59a7736,65,Female,Rangelview,Low,19.98,Monthly,2021-05-27,Events,Repeat donor,Marathon
+3961f47f-724d-4b44-b3da-1e161963d323,34,Female,Millerside,Medium,742.11,Quarterly,2023-03-06,Events,First-time donor,Auction
+3c1cbf73-4e7b-4920-822b-9eea8d29d3de,21,Male,Lake Karenborough,High,785.79,Quarterly,2023-08-30,Events,Major donor,Auction
+cd1eccd2-0a9f-4b83-a983-1148314ccd7a,58,Female,Lake Robinland,High,836.1,Annually,2021-08-07,Events,Repeat donor,Gala
+302ce70a-ea23-4d16-b981-fcecef683cac,63,Non-binary,West Terri,Medium,258.51,Quarterly,2023-01-09,Events,First-time donor,Auction
+b4effaf5-524e-445e-8bb2-0d9a0517e609,71,Female,Penningtonbury,High,915.82,Annually,2021-08-06,Mail,Major donor,Dinner
+c090b4a3-1937-4709-ad72-77335178e36c,66,Non-binary,North Edgarhaven,Low,36.23,Monthly,2023-06-11,Online,Repeat donor,Marathon
+c05950ad-9004-4132-a1db-3ab2de4613cf,45,Female,Lake Melissaborough,High,746.13,Monthly,2023-07-22,Events,Repeat donor,Dinner
+58316210-8466-47f7-b515-2ca5022543cf,20,Female,South Samantha,Medium,815.38,Monthly,2021-11-07,Mail,Major donor,Auction
+c5ece920-41b9-45f9-823e-9559e6263f1e,38,Female,Lake Miketown,High,627.17,Quarterly,2021-09-26,Online,Major donor,Gala
+fe2713ba-0591-4263-aace-5ad32d5a50b4,41,Non-binary,Walkerborough,Low,806.08,Quarterly,2022-05-31,Events,First-time donor,Dinner
+eec73618-412d-497b-93d4-c23997dda7b6,34,Female,New Laurenton,Low,36.55,Monthly,2022-10-13,Mail,Major donor,Dinner
+158fb65c-6ec8-4903-9027-7dc7827af945,23,Male,Port Samuelville,High,670.52,Quarterly,2022-12-06,Online,Major donor,Marathon
+cacfe107-9883-445e-9f68-b920bf9c06c9,53,Male,North Rebeccashire,Low,541.11,Annually,2023-11-05,Mail,Major donor,Marathon
+a18243ac-0570-4baa-bed7-9e77bbdbf62b,40,Non-binary,North Glennstad,High,287.54,Quarterly,2024-04-14,Events,Major donor,Marathon
+f0a33ed7-9ac0-45f6-adbc-d5e70c7849c1,34,Non-binary,Patriciachester,Medium,777.22,Annually,2023-07-25,Events,Repeat donor,Marathon
+53f52b78-d296-45fd-9e59-c91cd32d4a7a,55,Female,Pamelaport,High,259.0,Annually,2021-01-05,Events,First-time donor,Gala
+9a5df863-ef08-4ec8-aa80-3f6d539eb240,67,Non-binary,Mcclainberg,Low,971.98,Annually,2022-01-13,Online,Major donor,Dinner
+41d55b6a-8806-4029-828c-4c10efa0d770,20,Non-binary,Wallaceborough,Medium,339.01,Monthly,2023-02-03,Mail,Repeat donor,Marathon
+1af09c1c-6b6b-4600-90a4-f2100593623e,42,Non-binary,Smithberg,Low,965.6,Annually,2022-11-28,Events,First-time donor,Dinner
+cb5a509a-7a6f-4e2b-aefd-e483f9a4c99e,29,Non-binary,Armstrongchester,High,652.99,Monthly,2021-03-01,Online,Repeat donor,Marathon
+888d7af9-69f4-41b0-ad13-f370f9fe0a18,49,Male,Port Williammouth,Medium,214.64,Monthly,2023-05-31,Online,Repeat donor,Dinner
+3ddfd96b-613c-453b-be29-d32bc7371d23,42,Non-binary,Holmesfurt,Medium,429.37,Monthly,2020-07-20,Online,Major donor,Marathon
+bf5927ea-5578-44c6-b1eb-0670d6feb797,45,Female,Guzmanburgh,Low,217.05,Monthly,2021-10-09,Mail,Repeat donor,Gala
+b8837707-6240-4993-bd60-3a594f2d5e71,40,Female,New Craig,High,783.87,Annually,2023-03-14,Mail,Major donor,Gala
+d39c3cda-7cfb-41fe-ae86-610a4bd669ab,42,Male,Lake Jillian,Medium,150.8,Monthly,2022-03-03,Mail,First-time donor,Auction
+775486be-d81d-44db-94f9-f03073f61618,66,Female,West Whitney,Medium,844.96,Monthly,2021-07-02,Events,Repeat donor,Auction
+b2adedbc-eeb8-4e81-9abc-8a03a4b77470,49,Female,Port Marissaview,Medium,107.54,Quarterly,2024-02-07,Online,Repeat donor,Dinner
+2009ae37-06d1-485d-a890-ba824a81ee22,67,Female,Clarkburgh,Low,654.53,Monthly,2021-05-08,Online,Major donor,Dinner
+07025b1d-dedc-4d6a-8a2a-babdac0df82e,63,Male,South Christymouth,Medium,396.77,Quarterly,2020-08-10,Events,First-time donor,Auction
+8f97c84c-553d-43c9-a919-b9362ccc7c04,40,Female,Randallfort,Low,369.29,Monthly,2020-02-02,Events,Repeat donor,Dinner
+670d46d9-8ef8-4489-9a2f-0a8a07b3cbdd,79,Non-binary,North Angela,Medium,527.82,Quarterly,2022-03-04,Mail,Major donor,Auction
+c0fde47f-e3ee-4daa-9922-dd6d5567cd06,74,Non-binary,New Adamtown,High,690.78,Monthly,2022-07-31,Mail,First-time donor,Marathon
+f0dcbca9-3dea-4484-b184-950e3324e9bf,50,Female,Dannyhaven,Low,995.25,Annually,2022-08-20,Mail,Major donor,Dinner
+15a9fc7b-0b05-4e0c-8918-04fd90bc000d,56,Female,Williamsberg,High,213.24,Monthly,2023-06-22,Events,Repeat donor,Dinner
+974c95b4-4a65-4d19-ae50-9fc3518266b9,72,Female,Williamhaven,Medium,13.05,Annually,2024-03-31,Online,First-time donor,Gala
+ed81d8ab-a0cb-44c3-ade4-f3b8087d1c80,79,Non-binary,Reedstad,High,417.5,Monthly,2024-01-24,Online,Major donor,Dinner
+4fec9713-0f8a-40b6-ae48-13bb9f827af9,41,Male,South Dustin,Low,36.72,Monthly,2022-04-11,Events,First-time donor,Dinner
+601d4df3-4e8e-46c5-bbaa-1454844465e6,60,Female,Tinaburgh,Low,331.3,Quarterly,2021-11-30,Mail,Repeat donor,Auction
+af9e419b-eb45-490b-898f-09f8bf8a98fb,43,Female,Port Linda,Medium,164.76,Quarterly,2021-10-07,Mail,First-time donor,Marathon
+e298c965-4fcd-4708-8ed0-bc6755cc39cb,23,Female,Sarahborough,Medium,481.94,Quarterly,2023-05-31,Online,Repeat donor,Dinner
+8919add4-ed5f-454b-8df5-ef30aa7970a8,43,Female,Lake Jared,Medium,802.88,Monthly,2021-09-16,Mail,Repeat donor,Gala
+ccc4a93b-c417-4d68-8547-fe7813351da6,50,Non-binary,Bradleyhaven,Medium,942.08,Annually,2022-04-18,Mail,Major donor,Dinner
+eba8eb02-f0a1-425a-a03a-0120e133e49e,28,Female,North Hollyberg,Low,905.5,Annually,2023-04-27,Online,Repeat donor,Dinner
+d6b3507d-1994-4e1c-beed-d7b33e80ff33,58,Non-binary,South Tiffany,Low,322.69,Monthly,2020-08-05,Mail,Repeat donor,Gala
+0c833107-4360-4637-b0e1-7dd89b402ec4,77,Male,Williamchester,Medium,917.61,Monthly,2020-07-20,Online,Repeat donor,Gala
+c72c02a0-52cc-460d-aa73-87baf31c6c58,18,Female,South Matthew,High,886.56,Quarterly,2022-01-31,Mail,Major donor,Auction
+a13f23e7-1249-4cd7-be06-fbebd1073640,41,Female,Adamhaven,Medium,399.36,Monthly,2020-11-08,Online,Major donor,Auction
+9004bd5b-0661-4e22-b0be-f33514ce6a8a,26,Male,West Jerry,High,809.58,Monthly,2020-01-03,Mail,Repeat donor,Auction
+cab75340-309a-47a9-ac87-10501a930914,19,Male,Harriston,Low,271.59,Monthly,2021-06-11,Online,Major donor,Dinner
+3ed83b4c-19cf-4f7b-adfa-fce2b04a81cd,53,Non-binary,Lake Sean,Medium,10.63,Monthly,2024-01-31,Mail,First-time donor,Auction
+1671bd3f-ce6c-4c53-8f36-61b2d5d60c69,20,Non-binary,Whiteville,High,440.56,Quarterly,2022-06-05,Mail,Repeat donor,Marathon
+30a5f6f1-6d4d-4d73-b456-8a8d8b932771,25,Female,Lake Samuelville,Low,255.69,Quarterly,2022-09-14,Mail,First-time donor,Auction
+9b6a09b2-3b8e-4124-8869-ff94144f477a,41,Non-binary,Port Jacobland,Low,502.16,Quarterly,2020-08-28,Events,First-time donor,Marathon
+94ca4cc8-f200-4f00-9b1e-6163b0752b2f,61,Female,Alihaven,High,575.27,Quarterly,2024-01-21,Events,Repeat donor,Auction
+47e6d950-9129-4dca-b756-33abfc51293e,29,Male,East Christopher,Low,294.53,Monthly,2022-01-27,Mail,Major donor,Marathon
+88a25010-5c62-4dcb-98b9-640e93b0261c,45,Non-binary,New Nataliestad,Medium,31.98,Quarterly,2023-08-10,Events,Major donor,Gala
+64b14c5e-8d31-40ac-85d8-9c7deacc3e41,54,Female,Thompsonberg,Medium,200.25,Quarterly,2021-09-05,Online,Major donor,Gala
+cbed165a-beb3-458b-b0b2-f2029456340d,29,Male,Carlamouth,Medium,526.18,Monthly,2021-10-25,Mail,Repeat donor,Marathon
+8bda8083-ec10-49a7-a927-c567877100a7,80,Male,Buckleyburgh,Low,21.46,Monthly,2024-05-14,Mail,First-time donor,Gala
+3449c76c-48c0-4697-bd7f-fa7b5d53c533,31,Male,East Robertbury,High,566.15,Annually,2023-07-19,Online,First-time donor,Gala
+fe99bf57-c128-4360-9869-2edb70da71a1,62,Non-binary,Phillipsmouth,Medium,863.33,Annually,2021-04-04,Online,Repeat donor,Dinner
+bfda5d3e-80c4-42f9-90a4-719890ac7429,27,Non-binary,Howardchester,High,142.67,Monthly,2022-08-14,Online,Repeat donor,Dinner
+97597ce4-8ddd-4479-8692-56cfb2ce6982,34,Non-binary,Smithfurt,Medium,235.37,Monthly,2023-01-23,Online,Repeat donor,Auction
+c913da3d-e489-4e6f-abe2-46bd6145b53e,42,Female,East Jennifer,High,92.14,Monthly,2022-11-07,Online,Major donor,Gala
+7734959f-a1f7-4fe3-978b-8da0e36dac70,36,Non-binary,South Walterfort,High,512.8,Monthly,2023-06-10,Online,First-time donor,Auction
+20738d41-0b01-4c3e-86be-4a9823367bd7,26,Female,Rebeccabury,Medium,379.44,Quarterly,2022-11-03,Online,Repeat donor,Marathon
+1af177d5-fe00-4a16-bf74-7886465bea26,59,Male,Nathanielberg,Medium,214.28,Monthly,2022-07-08,Events,Major donor,Dinner
+68f38d62-71b1-41ac-8f3d-aabed728953a,68,Non-binary,New Sarahbury,High,385.38,Quarterly,2022-03-20,Mail,First-time donor,Dinner
+1c72f065-1044-488e-90d6-0ea455ef3e4b,44,Female,Strongville,Low,635.6,Quarterly,2021-12-20,Events,Repeat donor,Gala
+15d49e74-17ca-4398-9084-7635e2187886,47,Non-binary,Kirbyland,Medium,698.5,Quarterly,2021-07-05,Events,Major donor,Gala
+db482db6-a4a5-4f5c-a382-bade1db99b92,33,Male,Smithside,Medium,944.68,Annually,2023-10-14,Events,Major donor,Dinner
+39499d60-0048-445d-ba52-690b3d95dc00,76,Non-binary,Kirstenmouth,High,478.71,Monthly,2020-05-29,Mail,First-time donor,Gala
+010a728f-2af6-45da-9b00-d37b075041d6,76,Non-binary,Lake William,High,508.78,Annually,2023-05-09,Online,Major donor,Dinner
+6fbe362a-820b-457d-b1b2-bdc18171a191,29,Female,Hollyville,Medium,832.18,Quarterly,2022-01-31,Events,Major donor,Dinner
+5f5fec9d-f962-4081-b31d-2baaf1059c25,67,Male,South Laurachester,Medium,383.56,Annually,2023-08-17,Online,Repeat donor,Dinner
+2a043ad9-9e9d-44a5-bd62-f6b7be898a36,49,Female,West Rebeccaport,Medium,790.52,Monthly,2020-10-04,Mail,Repeat donor,Gala
+1abb8816-b402-478d-be6a-9217ee7b67c6,74,Female,Michaelburgh,Low,149.16,Monthly,2021-08-02,Mail,Major donor,Marathon
+4eca8cc3-c80e-442c-9521-cc046aea5808,21,Female,Hostad,Low,143.21,Quarterly,2022-05-22,Mail,Major donor,Marathon
+3280b6e4-dbd2-421c-8ee0-9c3ec184d839,80,Female,Warrenhaven,High,708.02,Annually,2022-07-30,Online,First-time donor,Dinner
+a9d4e00f-6726-4685-bd72-8d8c288e4cda,61,Female,Lake Tammyview,Medium,511.29,Monthly,2023-11-23,Online,Repeat donor,Dinner
+7e624f83-9d62-45b2-bb89-7766b7aee281,80,Non-binary,West Amytown,Low,643.87,Annually,2023-04-04,Mail,First-time donor,Auction
+76adfe2b-fe3a-49e5-b032-fa7b632bb2d8,51,Female,Port Randy,Low,69.2,Quarterly,2020-01-05,Online,Major donor,Dinner
+6b38673a-57d3-490a-bc13-af7dfea0ffd0,61,Male,Washingtonmouth,Low,929.84,Quarterly,2021-02-22,Events,First-time donor,Marathon
+de0cc4da-6432-43ac-8d0e-b2dcb7046cd0,49,Male,North Saratown,Low,687.86,Monthly,2021-04-23,Mail,Major donor,Dinner
+e51daa24-cb6f-4fa1-8bf9-e615e9639a4d,37,Non-binary,Kimberlystad,Medium,182.82,Annually,2022-10-04,Online,Repeat donor,Marathon
+e61b5b73-97d7-4c27-9954-1d285d186b7c,23,Non-binary,North Jonathan,Medium,675.83,Quarterly,2024-03-20,Online,Major donor,Dinner
+fa869904-98af-4664-aa9a-6abbd5499651,38,Male,Jacksontown,Medium,440.23,Annually,2020-05-18,Events,Repeat donor,Gala
+53e10438-3cd6-4970-993d-8b5bef1d0f91,66,Female,Kimberlyhaven,High,899.77,Quarterly,2020-11-16,Mail,Major donor,Auction
+96de49d0-71af-4d51-8cc2-b5abb74ad562,43,Male,Sarahtown,Medium,815.92,Quarterly,2023-02-04,Events,First-time donor,Marathon
+4d668e09-9a50-41b7-a8c9-f7567a7ed49e,30,Non-binary,New Richard,Low,12.01,Quarterly,2021-08-10,Online,First-time donor,Auction
+023dcda2-5ae3-4d48-8138-28b6a409e00c,36,Male,Jacksonfort,Medium,971.2,Annually,2021-03-04,Mail,First-time donor,Auction
+c831b1d6-842a-4925-a86e-6df80abb7327,49,Male,Port Dawn,Medium,939.01,Monthly,2022-01-01,Online,First-time donor,Gala
+d9fac515-2a47-4a30-a91e-c9fd1db59c40,57,Female,Jaredton,Low,828.45,Quarterly,2022-11-10,Mail,Major donor,Dinner
+e797c4aa-7721-4a7f-852c-e2c636a2c6f6,73,Non-binary,East Jose,High,787.66,Monthly,2021-07-06,Mail,Repeat donor,Dinner
+20bb04d5-3a80-4c09-8a76-0e55204f2978,54,Male,North Melissachester,Medium,202.24,Annually,2022-12-31,Events,Major donor,Dinner
+418a7f6a-03f1-49c5-aa1e-582d384407c4,63,Female,Benjaminport,High,90.62,Monthly,2022-11-23,Online,First-time donor,Dinner
+c030fa84-ca82-42a6-91f3-96814965d759,24,Male,Beverlyville,Low,596.49,Quarterly,2021-06-13,Events,First-time donor,Gala
+73b3028f-b8e4-4a5d-90b0-6d8ad03fcd02,71,Non-binary,Port Emilyborough,High,503.58,Monthly,2024-02-09,Mail,Repeat donor,Dinner
+bdb9a853-287c-4df9-98aa-f3ce57e291de,43,Male,New Sheilaville,Medium,276.8,Quarterly,2021-03-11,Mail,Repeat donor,Gala
+af66d15d-6c0a-4205-a961-b920e09f7514,24,Non-binary,New Jessicaborough,High,595.87,Quarterly,2020-07-09,Events,Repeat donor,Marathon
+8f06f274-4e1a-4e7f-9a7a-bcdf4cc6a7d3,55,Non-binary,Port Zachary,Low,90.87,Annually,2022-02-18,Mail,Repeat donor,Auction
+45b8fc18-29a4-4509-b7d4-9dcd19b82350,54,Male,Chloeton,Medium,17.2,Monthly,2022-10-25,Online,Major donor,Dinner
+81aa9d33-5509-4b83-be16-9506ead6828e,70,Male,Christymouth,Low,135.26,Monthly,2020-02-26,Events,Repeat donor,Dinner
+fda7e44e-7a22-4720-af94-8f520d8dbf32,53,Female,Huertaville,Low,764.72,Quarterly,2021-03-19,Online,First-time donor,Dinner
+e66e39fc-72b0-47f5-84e9-18aebd6bce68,53,Female,East Williamberg,Low,395.2,Annually,2023-06-05,Online,Major donor,Dinner
+21b0d8ad-abf4-4127-a169-e3b1d39e1373,39,Female,Port William,High,807.8,Annually,2022-10-13,Online,Repeat donor,Auction
+5a402898-099f-4009-8559-259d29c10f0b,64,Female,Buchananbury,High,662.21,Quarterly,2024-05-01,Events,First-time donor,Auction
+d23e24cd-4d0a-4422-9d90-f1e5290cbf61,74,Non-binary,South Chaseview,Low,290.69,Annually,2023-08-16,Mail,First-time donor,Dinner
+dcceac8f-5db6-4848-a29f-7f933eb98f60,74,Non-binary,Angelicaport,Medium,693.36,Monthly,2023-04-09,Mail,First-time donor,Marathon
+03f402f2-38d3-4fce-b5b9-c51f46f95a56,22,Female,Wellsview,Low,73.56,Monthly,2024-04-25,Online,Repeat donor,Dinner
+e96da7b5-b245-46c9-8577-30f9778a04f8,37,Male,Brewerfort,High,901.1,Annually,2023-03-21,Events,Major donor,Dinner
+3d3c3ff4-a73a-437d-8171-bd7d7319703a,56,Non-binary,Port Alexaville,Medium,953.46,Quarterly,2020-11-05,Mail,Major donor,Gala
+745c1412-48f3-49bd-bc20-0702aef3349f,59,Non-binary,Lake Matthew,Low,856.61,Annually,2024-03-27,Events,Major donor,Auction
+3184d382-1625-4473-bc51-86f110b037fa,26,Female,Villabury,Medium,616.75,Quarterly,2023-04-01,Online,First-time donor,Marathon
+4d1d278c-9173-4eb6-a2ff-e111413ad8f5,19,Non-binary,Cookhaven,High,967.53,Quarterly,2020-04-23,Online,First-time donor,Dinner
+358e0f04-0d07-42dc-a969-af9519207335,21,Female,Porterberg,Low,896.56,Quarterly,2020-07-02,Mail,Major donor,Gala
+bcf3b242-5dd7-4c98-aa87-6373d594f100,49,Female,West Sabrinaburgh,High,30.44,Monthly,2022-03-25,Events,First-time donor,Gala
+8d4651a9-c702-4e19-a3c8-d0fe0ce0eeab,55,Female,Benjaminfurt,Low,539.69,Quarterly,2023-11-25,Events,First-time donor,Auction
+3d610054-1fac-4a14-be49-f9c61aca5c62,33,Male,Port Trevor,Low,544.79,Quarterly,2023-09-24,Online,Major donor,Marathon
+bba035fa-0b7c-42c3-8296-41f138770e30,20,Male,Derekhaven,High,735.35,Monthly,2021-07-21,Mail,First-time donor,Marathon
+0a8c4e3c-6cb6-4189-aad1-3a8f56966e24,24,Female,Mortonmouth,Low,133.91,Quarterly,2023-01-13,Mail,First-time donor,Gala
+288e3816-6ae8-4d8b-a70a-600cbbcb5c24,74,Non-binary,Eileenton,High,771.33,Monthly,2021-04-14,Online,Repeat donor,Dinner
+5fa5980c-3f41-4b07-ab9c-9ef995da89e1,23,Male,North Susan,Low,35.94,Monthly,2020-07-08,Events,Major donor,Auction
+18e55c4d-a60b-4f13-a70b-9aa3a5ff245f,74,Non-binary,Hudsonstad,High,740.18,Monthly,2023-07-10,Online,Major donor,Gala
+5f046660-a72e-4c7c-be9f-f8b6e5d28b49,29,Female,West Ashley,Low,55.4,Annually,2020-03-08,Online,First-time donor,Dinner
+1d36e4a7-4fbe-4675-b664-e685fa28bd99,79,Female,New Tamistad,Low,45.84,Monthly,2022-12-20,Events,Repeat donor,Marathon
+54e80c82-0ec3-4580-a9ae-d9b996673d4a,24,Non-binary,Ellisburgh,Medium,755.92,Annually,2020-07-08,Online,Major donor,Auction
+4d323a2e-5e85-4940-95c5-f529483c95fa,43,Non-binary,North Nicolefort,Medium,859.51,Annually,2020-01-21,Online,First-time donor,Auction
+37fc4198-32a2-41d8-93a6-c7b3a625223f,22,Male,Smithtown,Low,266.79,Monthly,2023-02-11,Mail,Major donor,Auction
+b27a7fe5-16ac-40f3-a903-5b117bcd5a80,53,Non-binary,North Bryan,High,619.67,Monthly,2024-03-20,Events,Major donor,Auction
+e079a244-a4f7-46d0-809b-6abeb275fb5b,60,Female,Cynthiaport,Low,796.78,Quarterly,2023-06-02,Online,First-time donor,Dinner
+0e327a27-bfc8-4f8f-97e7-a4338cf5db2b,30,Non-binary,East Derrickside,High,42.29,Quarterly,2021-09-05,Events,Major donor,Dinner
+48c33ebd-fc2f-4d44-b93c-a8232674f072,65,Male,West Amanda,Medium,112.21,Quarterly,2023-05-06,Online,First-time donor,Gala
+2b979dae-5005-423f-8923-287ad9139357,71,Female,Flemingshire,Low,644.05,Quarterly,2022-03-20,Online,First-time donor,Dinner
+20728483-83c2-4d4c-ba59-013bbfbcabdc,56,Female,Stephensstad,Medium,168.19,Annually,2020-01-18,Online,First-time donor,Auction
+58ab2bc2-32e0-4cd9-9b40-bff31ec1ead6,43,Male,North Lori,Medium,531.94,Quarterly,2020-04-05,Events,Major donor,Auction
+c1ce05b0-1534-4b53-b35b-b572dd7e5438,74,Non-binary,North Allisonmouth,Medium,286.69,Monthly,2020-08-12,Online,Major donor,Auction
+1e126055-4bdc-481c-8292-2df1f1599467,64,Female,Thomasmouth,Low,147.41,Monthly,2020-10-28,Events,Major donor,Gala
+f7f8d98a-0802-40d4-b8fd-92f2f18ab1a7,72,Male,Dunnfurt,Medium,700.78,Annually,2023-10-30,Mail,Repeat donor,Marathon
+b823836c-d90d-4e42-8374-736244d751dd,78,Female,Lake Kimberlybury,Low,478.0,Annually,2024-02-19,Mail,Major donor,Dinner
+1e8aed3d-caa1-42d7-b147-02f4cc8eafde,69,Non-binary,New Nicholasberg,Medium,490.51,Quarterly,2020-07-24,Mail,First-time donor,Gala
+a8872b9e-7bdc-4d12-9097-d53ce2bc75a9,70,Male,Port Kristina,Low,844.32,Annually,2021-09-04,Online,Major donor,Marathon
+cd2fabb0-1479-413f-8a2a-74573a7df26b,19,Non-binary,West Brandon,Medium,70.22,Quarterly,2021-12-14,Online,First-time donor,Dinner
+6c3d480c-01fb-4467-a4f9-de5b4bc34759,63,Female,New Shannon,Medium,498.61,Quarterly,2023-11-30,Mail,Repeat donor,Dinner
+a88d6e7e-7248-4f43-8bbb-3313f4a19311,64,Female,North Jennifer,Low,618.65,Annually,2023-02-21,Mail,First-time donor,Auction
+f11b97ac-9bf4-4cfe-9490-227e7f928a3f,35,Female,North Erikafort,Medium,729.25,Annually,2021-10-02,Mail,First-time donor,Dinner
+6e869fda-e354-434f-ae16-462036061757,55,Female,East Robert,High,358.13,Quarterly,2020-04-12,Mail,Repeat donor,Dinner
+28ab8578-bbb1-489a-ba91-02bfc49a98b4,41,Female,Port Dana,Low,991.07,Quarterly,2020-12-24,Online,Major donor,Marathon
+baa6adfa-5109-4385-beeb-4077554fcfe7,40,Female,North Cynthia,Medium,259.52,Monthly,2021-06-11,Mail,Major donor,Gala
+7e9a7426-1ee5-4bf0-8be0-962149870fda,40,Non-binary,Taylorstad,High,549.58,Quarterly,2020-02-15,Events,Major donor,Marathon
+b9d0144b-339c-4d04-9631-688d52eaf900,72,Female,West Melinda,Low,513.07,Quarterly,2023-08-02,Mail,Repeat donor,Marathon
+b9d7a598-0dc6-4320-be41-0f6c1446f769,53,Non-binary,West Andrew,Low,715.49,Monthly,2023-06-10,Events,First-time donor,Dinner
+0dfdf6e3-8fa1-41f6-876a-d6e44e3f6196,53,Female,New Joelmouth,Low,797.22,Annually,2022-12-07,Mail,Repeat donor,Dinner
+d68be758-ac61-43c2-8e3e-7982739a304b,76,Male,Mannland,High,343.77,Monthly,2020-12-06,Events,Repeat donor,Auction
+29b3b962-0028-4f2c-8ab3-e8ff23f48e78,47,Female,Peterfort,Low,638.35,Annually,2023-03-03,Online,Major donor,Dinner
+c3caebbc-f873-44d8-a768-412c9fd08564,30,Non-binary,North Luis,High,264.58,Annually,2024-01-15,Mail,Major donor,Dinner
+7ec8a353-c422-4a16-96c6-cfd4723c8e87,67,Male,Port Lauramouth,High,662.76,Annually,2021-07-25,Online,Major donor,Gala
+653e34a5-102d-4084-8f57-3bba0c52b32c,33,Male,Port Cassandra,High,903.34,Monthly,2021-10-01,Online,Major donor,Marathon
+d9b80527-773f-4f7a-a0e7-2782fd089fa7,41,Non-binary,New Andreaton,Low,581.96,Monthly,2022-06-10,Events,Repeat donor,Dinner
+bfbf3118-e396-407c-ad5a-6691394881de,29,Female,Wardville,High,740.54,Annually,2024-06-18,Events,Repeat donor,Dinner
+833423af-1b19-4786-bd2b-6a8dfd152480,76,Non-binary,Samanthachester,Medium,334.98,Annually,2021-12-23,Online,Repeat donor,Gala
+14eff049-d667-467d-9baa-dc112c04d02b,22,Male,Garciahaven,High,279.05,Quarterly,2021-01-10,Online,Major donor,Gala
+558ae03a-e47f-400a-a20d-3049f13d4fc6,39,Male,Jonesfurt,Low,491.02,Quarterly,2021-05-17,Events,Repeat donor,Auction
+09fab1d7-2f45-4ad7-8b7d-52463c743e6f,22,Non-binary,Hicksside,Medium,470.73,Annually,2020-04-28,Mail,First-time donor,Dinner
+6d691bac-4131-4daa-83a3-0883d9cd2ad0,26,Female,East Tyler,High,942.9,Quarterly,2023-11-20,Online,First-time donor,Dinner
+d22f8e03-2b0b-4ba7-85b0-1b4346ffb3f2,73,Non-binary,Andersonside,Medium,981.79,Quarterly,2023-02-04,Online,Repeat donor,Marathon
+0869232d-d73d-4954-84dc-8d1c605ab201,60,Female,New Jennifer,Low,445.21,Quarterly,2020-05-20,Mail,Repeat donor,Gala
+ff0bdb60-31c0-4088-bf92-15ed0887e6e2,21,Female,Nathanbury,Medium,745.31,Quarterly,2022-11-11,Mail,First-time donor,Auction
+2989ec6f-adde-4f16-b68e-2baffc043494,28,Male,Catherinefurt,Low,827.99,Quarterly,2023-08-09,Events,First-time donor,Gala
+caf331c5-0436-4cee-a9bb-9c5d4093a04f,22,Non-binary,Robertsburgh,Low,225.43,Monthly,2023-02-21,Online,Major donor,Dinner
+9e0d8969-1430-4650-9fb3-cb7c058dffc2,76,Male,Galvanchester,High,897.32,Annually,2022-08-31,Mail,Repeat donor,Auction
+2d2624a7-8ecc-49fa-82ac-2eeda306dbe3,75,Male,Port Monica,High,216.06,Monthly,2022-06-13,Events,First-time donor,Auction
+e84aac3b-1a30-43d8-89d3-f1ec8708dfab,37,Non-binary,Longborough,Medium,431.58,Monthly,2021-08-16,Events,First-time donor,Marathon
+fdf537c3-c5c1-4908-9d54-adacfd20b14a,18,Female,East Samanthachester,High,399.89,Monthly,2021-05-16,Events,Major donor,Dinner
+454d6db8-bbbb-4c0f-9ae6-b6c483295ad3,59,Male,Manuelmouth,Low,466.81,Quarterly,2021-11-29,Mail,First-time donor,Auction
+d7591608-61ca-4211-bf17-0662ac006fca,79,Female,West Brandonside,High,439.0,Annually,2022-04-07,Online,Repeat donor,Gala
+26feddc9-b088-4fdd-8c9d-cf9d5b375bca,49,Female,North Karen,High,205.81,Annually,2020-03-31,Events,Major donor,Dinner
+3a83e02b-2c49-4cca-8690-cdf3c0402372,18,Non-binary,Lake Monica,High,310.45,Monthly,2023-06-21,Online,First-time donor,Marathon
+d52a5380-252d-4260-b778-c6230b35c686,53,Female,East Michelle,High,72.48,Quarterly,2021-02-25,Online,First-time donor,Dinner
+21cb6d7d-3627-473f-ae21-6f1e473cdf11,76,Non-binary,Port Theresaside,Low,408.31,Annually,2020-09-23,Online,Repeat donor,Dinner
+1682abaf-763c-4ea5-bf63-d360cd2558f4,73,Female,Goldenburgh,High,641.37,Monthly,2020-08-09,Events,Major donor,Auction
+11f45c80-274b-484f-b1b2-08fcef0da29c,54,Non-binary,North Jessicaberg,Low,897.18,Annually,2021-03-14,Online,First-time donor,Gala
+b86de809-8f9a-400e-bf34-24496a21aec2,73,Non-binary,Shawburgh,Low,427.79,Quarterly,2024-01-01,Events,Repeat donor,Auction
+1284d6cb-b446-4fba-a9a1-a8ec1f287082,24,Non-binary,Sarahaven,Medium,762.06,Annually,2021-10-12,Online,First-time donor,Gala
+9d0e7aae-7c9b-4b23-bce4-11f6bf2fa648,41,Female,Romeroshire,Low,917.82,Quarterly,2021-12-07,Mail,Major donor,Marathon
+69ba9745-a532-4df6-a9ca-7088850e5fa1,52,Male,Lake Kathymouth,Medium,585.92,Annually,2022-06-07,Online,Major donor,Marathon
+6bbec18f-4c3d-4e30-b7b5-b6eeea86ddb0,60,Female,Port Hannah,Medium,991.74,Annually,2022-10-30,Mail,Major donor,Marathon
+201adf2b-b3a8-49d9-a69c-78a297a973a0,54,Non-binary,Davisborough,Low,618.82,Annually,2022-09-24,Online,Major donor,Marathon
+a76acaa4-b609-41e6-ab45-1f9a2256bc28,63,Male,Port Robin,High,830.81,Quarterly,2020-02-02,Online,Major donor,Marathon
+74669526-7d31-4b09-9431-9d2c80dc81c6,22,Female,Frankmouth,Medium,873.35,Quarterly,2021-05-12,Mail,Major donor,Dinner
+b8e52085-3340-4a68-b5a2-d1dfc67e6446,39,Non-binary,Jonesport,High,789.96,Quarterly,2021-08-12,Online,Repeat donor,Marathon
+a58e8ec9-33e2-4142-8e31-2c083eb17c21,76,Non-binary,Zacharyborough,Medium,822.86,Annually,2020-02-19,Online,Repeat donor,Marathon
+78b697b8-7745-4a4d-9b88-7a294ee95384,46,Male,South Mary,Low,177.47,Monthly,2020-11-18,Online,Major donor,Dinner
+bbb76c59-6272-4fec-959a-f84b7a79b7e5,30,Non-binary,Patrickmouth,Medium,824.39,Quarterly,2020-04-20,Mail,Major donor,Gala
+eac55861-64dd-4391-942a-2a8ceb243bd8,21,Non-binary,New Seanberg,Low,192.08,Annually,2021-11-06,Online,First-time donor,Dinner
+50b4f45e-62e4-44ec-872f-08ebb0db93d2,77,Non-binary,Estradamouth,Medium,507.37,Quarterly,2022-04-30,Online,Major donor,Gala
+28466299-4df9-4d53-a81d-b808be3a4e1e,72,Female,Stanleyshire,Low,404.13,Monthly,2020-04-14,Events,Major donor,Marathon
+9be3b117-2b8a-4df8-bd01-284982d9648e,68,Non-binary,Port Carrie,High,399.72,Monthly,2020-09-28,Events,First-time donor,Gala
+ad61ab25-88cc-4631-b675-98885ade7ff0,38,Female,Kristinland,High,712.32,Annually,2024-05-17,Events,First-time donor,Auction
+156451fa-44ca-4f61-99a5-0a345c66bdc0,19,Male,Reedhaven,High,16.72,Monthly,2024-01-10,Events,Repeat donor,Gala
+cb52b162-9c3a-4197-9b95-a50248a115bd,26,Female,Hugheston,Low,431.92,Annually,2023-03-30,Online,Repeat donor,Gala
+2816ebd7-d7dc-4596-915b-6b58cb61b436,49,Female,Hardymouth,Low,864.29,Annually,2021-10-06,Mail,Repeat donor,Dinner
+47d770bf-103e-4231-b35c-46fffd6b72b5,38,Male,Port Hannahstad,High,345.96,Monthly,2023-02-08,Mail,First-time donor,Marathon
+7c655d53-b57d-4440-a495-84ab7f208c29,52,Male,New Brianview,Low,708.32,Monthly,2021-08-11,Online,First-time donor,Gala
+e9ade3f0-af41-4d34-b590-c25ce044ddf2,36,Male,Danielfurt,Medium,851.22,Annually,2021-05-10,Events,Repeat donor,Dinner
+5ae3528d-e4be-4c81-a844-b152979364e7,46,Male,Ashleyburgh,Low,545.67,Annually,2021-04-06,Events,Major donor,Marathon
+65863351-bce0-4029-a67e-0f7b04215467,38,Female,North Darlenemouth,High,437.44,Monthly,2023-06-01,Online,First-time donor,Marathon
+d6e95eb6-a484-4a72-be9d-001da686436c,66,Female,Jefferytown,High,334.07,Monthly,2021-07-03,Mail,Repeat donor,Auction
+59de7e3e-00e8-4463-8665-2aa25aa1745a,34,Male,Carpenterborough,Low,937.53,Annually,2020-01-29,Events,First-time donor,Gala
+626d62ea-4fe1-4b50-b806-9896ddd37fd1,35,Male,New Eugene,Medium,47.26,Annually,2021-01-21,Online,First-time donor,Gala
+4c877d95-a6e2-4756-97e7-89e368527aa6,80,Male,Joelborough,High,984.34,Monthly,2020-09-06,Mail,Repeat donor,Gala
+e5c2a519-b676-4b8f-a5ff-37f01eff54fc,44,Male,Port Linda,Medium,234.62,Annually,2021-08-10,Mail,Repeat donor,Gala
+720c174e-0bce-4f84-a854-f4686b61b922,29,Non-binary,Dustinberg,Low,103.54,Annually,2020-09-24,Mail,First-time donor,Auction
+bab672e8-a881-4998-8ab0-7d6124fb6085,28,Non-binary,Sarahchester,High,666.39,Quarterly,2021-02-10,Mail,Repeat donor,Gala
+df4047c6-f266-4d09-a47d-e40170a05719,24,Non-binary,Meltonmouth,High,431.82,Monthly,2022-04-16,Events,First-time donor,Dinner
+fcd2c3b3-4deb-488c-a1a1-fc07677e40bf,22,Non-binary,Clairetown,Low,792.19,Annually,2022-12-29,Online,First-time donor,Gala
+e01b0b42-1aff-4470-ac6a-9296c44cf0f4,67,Non-binary,East Williamtown,High,665.03,Quarterly,2023-02-01,Mail,Major donor,Gala
+92e7b14b-8d71-495a-835b-50f2de4d24cc,68,Male,Boydmouth,Medium,511.75,Monthly,2022-03-27,Mail,First-time donor,Gala
+08730bab-ba15-4bee-8467-25b335b459aa,35,Male,Dustinborough,Medium,978.61,Quarterly,2022-08-21,Online,Major donor,Marathon
+b11d0ae9-a5ad-444f-8d9d-c5dd22e8da5b,55,Non-binary,Port Patricia,Medium,767.12,Annually,2023-01-25,Events,Major donor,Dinner
+b08a4d8c-4299-46ef-916b-131317cd6c82,54,Male,Heidimouth,High,291.67,Monthly,2023-09-21,Mail,First-time donor,Dinner
+a6cbcf6e-82ed-47a3-94c6-0228d43b7d3e,78,Non-binary,Port Justinside,Low,710.59,Annually,2023-05-03,Events,Major donor,Gala
+674d0af5-3e57-45e9-88f9-a1597e4e4ad1,78,Male,Crawfordton,Low,261.71,Monthly,2021-08-25,Events,Major donor,Auction
+dcfe0a64-3b62-4489-80cf-02480b7c0e0c,29,Non-binary,East Sheila,Low,113.4,Monthly,2024-03-10,Events,First-time donor,Dinner
+5b103d51-9296-47fb-acbd-9c58175f36d6,73,Female,Arielstad,High,72.07,Annually,2021-05-13,Events,First-time donor,Gala
+16504681-abce-4477-8144-0acc63d922f0,57,Male,New Kelly,High,401.25,Quarterly,2021-08-09,Online,Repeat donor,Marathon
+18f1bd26-d854-41de-bdde-79a7919ffecb,25,Female,Nataliechester,High,594.76,Monthly,2023-08-28,Mail,Major donor,Dinner
+9e692170-485a-4cac-856d-39e043f85f28,79,Male,Martinfort,Medium,378.91,Quarterly,2022-05-03,Online,Repeat donor,Gala
+90269e8f-6812-4dcc-93db-1585e8781245,66,Male,Port Carlosborough,Medium,486.59,Quarterly,2023-11-05,Events,Repeat donor,Auction
+46835690-17a1-412a-acd8-d15d248bfb2c,34,Non-binary,Wilsonhaven,High,514.97,Monthly,2020-03-26,Online,Major donor,Dinner
+9eef3f21-b3a0-4973-a5ee-da2f925481d3,26,Male,Lake Natalie,Medium,632.29,Annually,2021-12-16,Mail,Repeat donor,Gala
+55a3eb8e-944b-45d5-8985-6981bc8c9a69,32,Male,South Jamesview,Medium,190.58,Monthly,2024-04-02,Events,Major donor,Auction
+3cae4ff5-089a-4aa4-97ff-06d304a9170b,37,Male,East Richard,High,920.62,Quarterly,2021-12-07,Online,Major donor,Marathon
+0d2ba54d-42ba-4269-b2d9-60d7c4a1ad7d,78,Male,Lake Jessica,Medium,132.37,Quarterly,2023-07-19,Events,Major donor,Gala
+11c6ff06-9a77-417d-9808-43aefe2420d4,38,Male,Port Geraldbury,Low,651.04,Annually,2022-12-13,Events,First-time donor,Marathon
+5b863243-c8be-4d58-818a-48a6c95d84c2,66,Non-binary,Michellefort,High,251.64,Monthly,2022-10-24,Mail,Major donor,Dinner
+0fc16c8d-1b36-4f0f-a956-3116fcc6ae65,56,Female,Lake Amandaton,Medium,710.17,Monthly,2020-07-05,Events,Major donor,Marathon
+4961f73b-7c43-4596-ba66-830f29085d48,72,Non-binary,Port Joshuamouth,High,396.68,Quarterly,2020-03-20,Mail,Major donor,Gala
+3c302ac7-8147-4b56-a0d2-ff1f9c983a83,58,Female,Aguirreborough,Low,703.42,Annually,2021-08-14,Online,Major donor,Marathon
+752c9f49-dbd0-4843-b209-e23a4b762456,69,Male,New Howardshire,Low,896.87,Monthly,2020-05-24,Mail,Major donor,Gala
+f762538f-b1ed-4a29-a43f-e999619aad1e,71,Non-binary,Sydneyfurt,Low,25.84,Annually,2023-03-16,Online,Major donor,Gala
+91daebd5-6cb6-4afa-a919-c3635fcea48b,79,Non-binary,Parkstown,High,274.87,Monthly,2020-11-18,Online,First-time donor,Marathon
+1e456f2b-6b70-4d65-8333-68d8b59dbf9a,20,Male,Williamberg,Medium,544.53,Annually,2020-04-28,Mail,Major donor,Auction
+6b1dc99c-cc76-401d-81ef-27266193c5a4,71,Female,Matthewside,High,337.98,Monthly,2020-09-03,Online,Major donor,Dinner
+a7540d61-9129-49dd-b5a3-4446dfaecc2a,73,Male,Lake Michaelland,High,730.7,Annually,2020-03-10,Mail,Major donor,Auction
+9a34f732-b97f-4789-9161-736d361ab77f,58,Male,Birdberg,Medium,347.73,Quarterly,2021-02-23,Mail,First-time donor,Gala
+aa9b87fb-c453-46fd-8969-a2aec293a0f8,35,Non-binary,Scotthaven,Low,903.48,Quarterly,2023-08-22,Online,First-time donor,Marathon
+9150f30f-593e-48d7-adbe-b00066fa4b71,38,Female,Sullivanfurt,Low,913.55,Monthly,2022-08-16,Mail,Major donor,Marathon
+15d0a02c-2e9b-4d79-81c6-3892c6e5e629,21,Male,North Jeffreybury,Medium,705.81,Monthly,2020-05-05,Events,First-time donor,Dinner
+da8e77ad-3c9e-49d5-b8b0-a7ab3f07638c,66,Female,West Michaelshire,Medium,241.69,Quarterly,2024-06-18,Mail,Repeat donor,Dinner
+592946f1-4f93-4ea4-a612-1fe06f8c15e3,75,Female,Sullivanport,High,345.97,Monthly,2023-12-22,Events,First-time donor,Dinner
+cfc6fbdc-0a05-429c-b394-dbd6135ac7cc,24,Non-binary,Port Nicole,High,302.12,Annually,2021-08-23,Mail,Repeat donor,Marathon
+ef8ec7b5-34a6-481e-836c-fd0d36cc35e4,63,Non-binary,Lake Jamie,High,340.78,Monthly,2021-10-22,Events,Repeat donor,Gala
+4556cbb7-dc4d-486a-ba15-f6d3e526de15,45,Non-binary,Christineburgh,Medium,581.01,Monthly,2023-09-11,Mail,Repeat donor,Marathon
+5c57b40b-1895-4a5d-98ed-83522d42fae2,69,Male,Aaronstad,High,545.15,Quarterly,2024-03-02,Events,First-time donor,Auction
+3fddc7df-dac6-4fc7-832a-e98bab7eff3f,49,Non-binary,South Toni,High,607.74,Quarterly,2021-09-14,Events,Repeat donor,Auction
+6b304246-f17a-4d67-bde6-c6dfbfbd9b9b,44,Non-binary,Williamstown,Medium,950.06,Annually,2022-12-22,Online,First-time donor,Marathon
+1f6324a2-2066-45dd-9a7d-82ff60c43a83,43,Female,West Mark,Medium,141.88,Annually,2023-11-21,Online,Repeat donor,Gala
+7d9bb8e1-4a7d-49a1-96ed-9fb3e205cf47,39,Female,East Michaeltown,High,367.62,Quarterly,2023-06-25,Events,Major donor,Marathon
+71fee6ce-49ef-4762-9db5-6587d3d32947,18,Male,Jonathanton,Medium,782.17,Monthly,2020-10-23,Online,Repeat donor,Marathon
+4ea155c8-9283-4f19-a23b-307d1941bf5d,53,Male,Port Gordon,High,408.77,Monthly,2021-06-07,Mail,Repeat donor,Auction
+3a2fb1f5-b365-4d62-b962-94983f7e75d2,68,Female,Kingshire,Low,322.97,Monthly,2023-10-22,Online,Major donor,Dinner
+ffcf788d-2dc9-4043-acb0-0635b917faea,50,Non-binary,Knappstad,Medium,105.25,Annually,2021-03-21,Events,Major donor,Gala
+1c1c4964-0151-42c5-a8d5-b69426a6444d,47,Female,Williamsonmouth,High,16.79,Annually,2021-10-27,Mail,First-time donor,Gala
+7b687495-238e-4678-a0cc-95b23c4ffe33,74,Male,Calebborough,Medium,690.29,Monthly,2024-05-09,Online,Repeat donor,Gala
+7e4fca72-4c7d-4b91-bd55-4771ad9ff024,42,Female,Weaverchester,High,79.28,Quarterly,2020-04-24,Online,Major donor,Marathon
+93f9cf32-8317-488a-91f5-adf9b5047204,29,Non-binary,Terriside,High,773.21,Monthly,2020-11-21,Online,Major donor,Marathon
+46cb70e9-4a7d-48b6-8636-0bb3f2fafb3d,39,Male,Lake Makaylaton,Low,682.99,Annually,2021-12-27,Mail,Major donor,Gala
+69db00ae-d368-4838-a7b5-7a7f673ade8d,79,Non-binary,Lake Lori,High,114.11,Monthly,2024-06-08,Events,Major donor,Auction
+7c27cb66-7c03-46b5-8a37-06ced57f4690,72,Male,Ronaldchester,Low,724.3,Annually,2023-08-05,Mail,Repeat donor,Gala
+b5aaf4ec-0858-44f6-8a45-91951c9b30f5,65,Male,Erictown,High,690.85,Quarterly,2024-04-07,Mail,First-time donor,Dinner
+a80afd59-36c1-401c-8068-fc04e91f9137,80,Non-binary,North Jamesmouth,Medium,643.65,Annually,2023-09-26,Online,Major donor,Auction
+7962edb6-5844-49a9-888b-5562d2043087,67,Non-binary,Thomasfurt,Low,492.97,Quarterly,2022-01-22,Online,First-time donor,Auction
+3619d2f8-7014-4a3d-bb67-02f393bde865,39,Female,South Brandonberg,Medium,694.57,Monthly,2024-01-27,Events,First-time donor,Gala
+7b16e354-fc54-4c61-976f-c1ab06dd62f0,27,Non-binary,Lopezberg,Low,384.89,Monthly,2023-03-23,Online,Major donor,Gala
+99865c49-4e7a-4669-8701-acecd4b17c2c,67,Female,Owensborough,High,723.27,Annually,2024-04-27,Mail,First-time donor,Gala
+9ccdc2a9-8bbb-4286-8f4d-3aa5c3a1428f,42,Female,West Jeffreyport,High,683.9,Annually,2020-05-25,Online,Repeat donor,Marathon
+13111f7f-17c7-454c-87d1-0065280d682d,37,Female,Marissachester,High,426.33,Quarterly,2024-05-26,Mail,Major donor,Dinner
+18339dde-cd85-4e46-a9bf-cf956d6d7bcd,43,Non-binary,Dannyhaven,Medium,835.06,Monthly,2022-10-30,Mail,First-time donor,Gala
+66286107-a120-4b54-adc6-a605cb5be508,64,Female,Ochoaton,High,732.92,Annually,2022-06-05,Mail,First-time donor,Dinner
+30a0cf29-5a4c-4b58-9310-218e38bb5ed4,40,Non-binary,North Michael,Low,575.84,Monthly,2023-01-24,Events,Major donor,Marathon
+600cbaac-09dc-45de-b50a-251832b0b355,29,Non-binary,South Sabrina,High,193.97,Monthly,2023-11-20,Mail,Repeat donor,Gala
+8a84e6b7-a28d-4e23-86bc-757ac0c0c28d,65,Female,Lake Johnbury,Medium,383.08,Quarterly,2022-08-09,Online,Major donor,Dinner
+249daeaa-6735-4baf-85b3-24de09976dd0,60,Female,East Michaelfort,High,937.9,Annually,2022-01-13,Online,First-time donor,Dinner
+9ada9014-b34b-4082-8612-70cf5c421286,33,Male,Amberside,Medium,699.29,Annually,2024-05-24,Online,Repeat donor,Auction
+82f848d3-a0d7-47ce-8f68-12be05411982,39,Female,Hernandezshire,Low,441.95,Monthly,2021-09-23,Mail,Repeat donor,Gala
+1c515bd9-6cd9-45ab-ae71-e1e8ac33602b,21,Non-binary,Tiffanymouth,Medium,920.69,Annually,2022-09-03,Mail,Repeat donor,Auction
+daeda6c6-0b9b-4b20-b579-fdbb82c56380,48,Non-binary,Anthonybury,High,623.02,Monthly,2021-12-10,Mail,Repeat donor,Auction
+f8434b31-f969-47ba-9632-50e53332351a,64,Female,Lake Jonathanland,High,863.12,Annually,2022-10-26,Events,Major donor,Gala
+229c2f62-790a-40b0-aafd-04a2a03747f1,20,Male,Martinezmouth,Medium,191.13,Quarterly,2020-10-08,Events,First-time donor,Marathon
+163fb5e1-9fd5-427d-874b-c5826dde9180,40,Male,Lake William,Medium,558.09,Monthly,2022-05-07,Mail,First-time donor,Marathon
+c623cf6e-4b29-4f49-8b0f-7553f04db0a7,49,Non-binary,Clarkfort,High,150.19,Quarterly,2022-12-22,Mail,First-time donor,Auction
+25c3b535-e41e-42cd-a5cc-a9c2a3232897,46,Non-binary,Port Savannah,Medium,620.28,Quarterly,2021-01-10,Online,Major donor,Marathon
+54d980d7-a274-4048-bd9a-1311a18858cb,47,Male,Jenniferfurt,Medium,761.82,Annually,2021-04-20,Events,Major donor,Gala
+245b8cc7-4a37-4d9d-9e60-343d011b5af6,32,Male,North Nancyfort,Low,198.49,Monthly,2022-11-03,Mail,Repeat donor,Marathon
+0a29b276-7d15-4075-bfc3-b0b7258a6f1f,50,Non-binary,North Cassandra,Low,494.9,Annually,2023-06-13,Mail,Major donor,Auction
+58081130-4c21-44cc-957a-035fac094ba8,75,Female,Barnettton,Medium,13.05,Monthly,2022-08-28,Mail,First-time donor,Dinner
+6868bf51-d3cc-47bb-9f95-7c4c6e47a282,40,Non-binary,North Zachary,Medium,44.31,Annually,2022-09-28,Events,Repeat donor,Auction
+9f5382f4-d014-4e52-be9a-6421e7b9fee5,69,Male,Timothyshire,Medium,43.12,Monthly,2020-02-28,Events,First-time donor,Marathon
+93f50261-e384-4c53-b011-35f15d6ef5bd,63,Female,East Patricia,High,323.75,Quarterly,2020-11-08,Events,Repeat donor,Marathon
+1dabe286-99c9-470e-b1f1-f79d1b97dc06,66,Non-binary,West Heather,Low,667.83,Quarterly,2020-05-28,Mail,Repeat donor,Auction
+f5eebf69-2b03-4301-b81e-cb1898af2828,43,Male,South Kevinmouth,High,300.28,Quarterly,2021-01-16,Online,Major donor,Auction
+1d08a757-9f14-4dce-9514-28975646f87f,22,Female,West Mark,Medium,433.66,Monthly,2021-01-13,Online,Major donor,Marathon
+a64d6e4f-69bf-4152-8dd6-ba27f07f1626,23,Non-binary,Wileystad,Low,928.32,Annually,2020-09-09,Online,First-time donor,Gala
+2b57ca11-5d68-4021-89db-b6cd6e704e55,77,Non-binary,North Jamestown,Low,965.64,Monthly,2023-04-29,Mail,Repeat donor,Dinner
+5223b7d1-453f-41d7-864c-b46151a59fef,29,Female,Douglasstad,Low,139.32,Annually,2020-08-11,Online,Major donor,Marathon
+1d84b914-e2a6-4c31-9430-6bcfa4a26e6f,78,Non-binary,New Randall,High,152.42,Quarterly,2021-07-28,Events,Repeat donor,Auction
+9456ae0a-2a41-469d-9cc4-4619b807a51b,30,Female,New Sherrychester,Low,643.98,Monthly,2024-03-09,Mail,Repeat donor,Auction
+ad3dd947-f335-4b2e-8898-5eb48d4b0f37,28,Non-binary,East Andrewmouth,Low,86.17,Quarterly,2024-02-15,Online,Repeat donor,Auction
+8f4253c7-7798-4104-927f-f40c1df8d6ee,74,Female,Jenkinsside,High,70.84,Quarterly,2024-04-05,Online,Repeat donor,Auction
+e8b6bed7-3e6e-4d7e-8385-54c2aca23297,35,Male,Ashleefort,High,124.48,Annually,2023-05-31,Online,Repeat donor,Gala
+52408874-9541-4a69-8db8-d63d8ca162f3,48,Non-binary,West Carl,Medium,444.97,Annually,2020-02-25,Online,Major donor,Dinner
+dca70208-07b3-4ff4-bab7-fa9dda7d6ee5,20,Female,Lake Sarah,Medium,859.37,Quarterly,2023-06-19,Mail,First-time donor,Gala
+ce415810-6c55-4dea-a92d-90f55509ac5a,76,Female,Branchfort,Low,952.93,Annually,2022-07-10,Online,Major donor,Gala
+62251cc0-ac30-44db-8c5c-d2c9e7e05685,62,Female,Ericfurt,Low,167.6,Monthly,2021-10-13,Online,First-time donor,Marathon
+ede52f21-843c-417a-9aa7-68d23fbbd2c5,62,Female,Johnbury,Medium,323.84,Monthly,2022-03-21,Mail,Major donor,Auction
+84a66878-db2c-454b-be73-3a25a5d1a8bd,76,Female,West Matthewhaven,High,641.38,Monthly,2020-08-03,Online,First-time donor,Marathon
+6fd8987f-9bb5-43fd-8611-a2cfbfafbbec,23,Female,Stevenburgh,High,545.97,Annually,2020-08-08,Events,First-time donor,Marathon
+6ef65e62-2356-4907-8572-cc6431161a60,30,Female,Hollyland,High,14.39,Quarterly,2020-02-19,Events,First-time donor,Marathon
+8c22e87d-ea2d-4928-b59d-321cebad66b7,40,Female,Mooreville,Low,802.0,Quarterly,2023-04-30,Mail,Major donor,Dinner
+89813326-a4dd-4aaf-9c9a-82c4a7d609a1,76,Female,Lake Gabrielleland,Medium,647.66,Quarterly,2020-04-28,Events,First-time donor,Marathon
+7ed26175-0be5-45f2-a80d-b823e24f91c5,48,Male,East Kyleborough,High,665.81,Annually,2024-01-25,Mail,Major donor,Auction
+f09f81c3-c02e-48b1-9822-5942bed6e40d,57,Male,North Derekmouth,Low,496.12,Monthly,2020-10-01,Mail,First-time donor,Dinner
+84407350-da2b-42de-b766-b2a384a695e9,75,Male,Johnville,Medium,338.59,Annually,2023-03-02,Events,Repeat donor,Gala
+7c1cedf8-b3b9-4aba-8f22-0b911bf81ec6,27,Male,Smallburgh,Medium,354.24,Quarterly,2021-03-19,Events,Repeat donor,Marathon
+e33c6959-753e-4a6b-851e-86ddeb0b63c0,56,Male,Josephshire,High,107.32,Monthly,2020-11-14,Events,Major donor,Dinner
+74e81bf8-2273-4306-8d0e-ae58ca68f491,32,Male,West Johnnyshire,Low,727.03,Monthly,2021-04-30,Mail,Repeat donor,Marathon
+f8b9d22a-14c2-42c1-b68b-4b6fbbcf4e1d,63,Non-binary,West Stephanie,Low,357.71,Annually,2023-03-13,Events,First-time donor,Dinner
+d361a216-cb9f-46e8-95d4-ef7379054f93,34,Male,Johnton,Medium,809.42,Annually,2023-10-25,Events,First-time donor,Gala
+482747cf-3870-4164-a682-ae244b271cb5,30,Male,South Christinafurt,Medium,856.1,Annually,2023-03-15,Online,First-time donor,Dinner
+6322bc23-87cd-4838-a159-d75e8ea952fe,80,Male,Cristinachester,Medium,59.44,Quarterly,2023-08-19,Online,First-time donor,Gala
+cde1bd3b-71c7-458f-b1c4-efbde698cd8c,49,Male,Bellville,Medium,672.07,Annually,2020-06-13,Online,Major donor,Marathon
+2156fe4a-3d93-47be-ad73-b294ec0144f1,69,Non-binary,Kathychester,High,157.85,Annually,2023-01-03,Online,First-time donor,Marathon
+cf685658-b3c9-4ba4-aeb3-04285f6a5d47,74,Male,Jeffreymouth,Low,827.19,Annually,2020-08-26,Online,Repeat donor,Gala
+c3bc0296-80f3-4d2b-aa2b-3f6244723033,24,Non-binary,Porterstad,High,537.12,Quarterly,2023-03-17,Events,Major donor,Dinner
+fa69c493-e31f-4052-9679-3062825d87ef,75,Male,East Nathan,High,914.19,Annually,2022-03-10,Online,First-time donor,Auction
+2042e185-2592-472e-a466-cb10b866ac78,80,Male,Whitebury,Medium,279.35,Monthly,2021-04-06,Online,First-time donor,Auction
+40c0656c-a76d-4be4-90f3-113089eafc31,37,Male,South Samantha,Low,106.26,Annually,2020-01-11,Online,First-time donor,Marathon
+ba44b788-47d1-419b-8316-23d1f0ab48b2,51,Female,Hoganhaven,High,715.87,Quarterly,2021-06-13,Mail,Repeat donor,Marathon
+de5d096a-5fb6-424e-8ad1-10e8f8e24fe6,31,Male,Lake Benjaminbury,Low,241.57,Quarterly,2022-06-12,Events,First-time donor,Gala
+582f146c-3f36-4abf-b146-283872a23fbd,64,Non-binary,Griffithside,High,936.31,Quarterly,2021-09-28,Mail,Repeat donor,Gala
+7131c61f-cefd-4b48-86b1-36685286a95e,75,Female,Stantonport,Medium,479.4,Annually,2023-03-28,Mail,First-time donor,Gala
+babfde2d-730a-4456-b986-0ac590c89017,29,Male,Buchananbury,High,956.4,Monthly,2020-03-07,Mail,Major donor,Auction
+27fcc899-4162-4b0a-a3ee-45761ca959d5,23,Female,North Yvonne,High,439.25,Monthly,2021-02-02,Events,Major donor,Auction
+aac7ca96-d032-4d07-a503-f2fdf88b1ca2,75,Non-binary,Jeffreyview,Low,630.66,Quarterly,2024-06-09,Mail,First-time donor,Auction
+c72bf5d3-6d18-42f1-bf57-481eab9f6ed7,76,Non-binary,New Aaronshire,Medium,864.34,Annually,2021-11-26,Mail,Major donor,Dinner
+1db7751c-854e-4981-bfa6-66470164b896,35,Non-binary,West Matthew,Low,466.55,Annually,2023-05-20,Mail,First-time donor,Marathon
+6efbefdc-c6b7-4fdf-944d-7f8f75680fc8,30,Male,South Garyberg,Low,586.84,Annually,2022-08-28,Online,First-time donor,Dinner
+92fe59d4-3668-47bf-82ae-fbe6922ea0f7,52,Female,Meganburgh,Low,503.3,Monthly,2021-02-20,Events,Major donor,Dinner
+c999f34e-032a-459c-9934-1f7691aa830d,53,Non-binary,Nicholasport,Low,326.65,Monthly,2023-12-22,Events,Repeat donor,Auction
+407a3915-f297-4c2c-acd6-127a447c5b2b,64,Non-binary,West Cody,Low,742.49,Annually,2021-05-13,Online,First-time donor,Auction
+ecacdcd7-a3f2-449d-8bfd-dbcc0be20884,35,Female,Timothyland,High,985.03,Annually,2021-12-28,Online,Repeat donor,Marathon
+50ee0fc4-7d3f-4ebe-b565-2976bb2b9403,63,Non-binary,Angelaside,High,258.01,Monthly,2021-04-15,Mail,Major donor,Marathon
+1f742ee4-82a7-40e5-b008-1ccb187d2693,31,Female,New Katherinetown,Low,945.21,Annually,2020-01-18,Events,Major donor,Marathon
+4a0494a6-e7e5-41cc-ae45-3f11d79ae985,45,Female,Jenniferport,Medium,683.54,Monthly,2022-08-24,Mail,Major donor,Dinner
+4b1b36aa-fa0e-4c7b-8b20-063ffd57c7bc,28,Non-binary,New Victoria,Low,260.91,Quarterly,2021-05-02,Online,Major donor,Gala
+b1760c49-5289-4e65-b23d-57314e9ab260,33,Female,North Jeffrey,High,81.01,Annually,2020-07-04,Events,Major donor,Auction
+1ae9f78e-50f3-40f0-b107-cd4d53872907,53,Male,Wilsonshire,High,216.68,Monthly,2023-10-17,Online,Repeat donor,Gala
+91ded829-084a-456c-b1c1-8b2e42aad0a1,50,Non-binary,Graceshire,Medium,505.75,Monthly,2021-11-20,Online,Repeat donor,Dinner
+8d9af627-95fd-4186-9a7a-4893f60d9716,20,Female,Lake Jaredton,High,98.16,Monthly,2021-07-30,Online,First-time donor,Dinner
+afe66b38-4f5a-494e-ac3e-4a4059b741ea,74,Female,Arnoldhaven,Medium,404.5,Monthly,2020-02-20,Mail,First-time donor,Gala
+946ba8a2-02a3-4f36-a971-d339d91c6ad4,66,Male,Richfurt,Low,676.42,Annually,2020-10-29,Events,First-time donor,Dinner
+8cc59519-16f1-4ab4-9ce6-1920f2ca9b32,67,Male,Chenberg,Medium,561.45,Annually,2021-10-30,Online,First-time donor,Gala
+afacf841-5ceb-4dc9-bf1f-737fde089a1c,31,Male,East Julie,High,208.76,Monthly,2021-11-16,Mail,First-time donor,Dinner
+f019bd71-c5a4-4b5b-a719-a3a7b23f79b3,29,Female,North Mark,High,597.96,Annually,2022-12-27,Events,Repeat donor,Dinner
+b135e104-a692-4f9d-b478-23e0ab5e30ce,47,Non-binary,South Ebony,Medium,309.58,Annually,2021-07-19,Online,Major donor,Marathon
+ce15f35b-65ae-4326-9ea5-68f5466a0384,57,Non-binary,West Caitlinside,Medium,590.48,Monthly,2023-06-28,Online,First-time donor,Auction
+1c4debb5-7872-49db-8c2e-c32ed491ff80,35,Female,North Kevin,Medium,822.84,Annually,2020-06-20,Online,Major donor,Dinner
+36feadd8-eafa-47b5-9ce6-363224226b6c,21,Female,North Michael,Low,171.45,Annually,2020-10-16,Online,Repeat donor,Auction
+185ff6d7-9b7f-4c9c-8660-ef152343570f,40,Male,Port Karenton,Low,526.16,Quarterly,2021-05-03,Events,Major donor,Marathon
+bec5347c-1323-478a-a6c2-6b87b4642ca8,80,Non-binary,West Susan,Low,891.1,Annually,2023-12-13,Events,First-time donor,Marathon
+1a5337c5-8797-4a2f-8f9d-d1021d7af83e,32,Female,Port Katie,High,915.44,Quarterly,2021-09-11,Online,First-time donor,Gala
+b4aa508c-b969-42a0-a90d-ffd85e96b151,47,Male,West Larryburgh,Low,828.31,Monthly,2020-07-09,Mail,First-time donor,Dinner
+ea0c9527-2201-47a8-88df-253487d84014,33,Male,Lake Jeremyberg,Medium,933.78,Monthly,2021-12-17,Mail,Repeat donor,Dinner
+00e5b265-0a0e-4811-9478-17324ada0b28,73,Female,East Michaelport,Medium,933.0,Annually,2022-03-10,Events,First-time donor,Gala
+bcda6edb-d09e-4e66-a514-aa4c7b6fc977,59,Male,Ericmouth,Low,702.85,Monthly,2022-02-20,Events,First-time donor,Dinner
+e4ca6437-4311-47af-b0e6-f1b788b8c6b1,55,Female,Cindymouth,Low,623.86,Monthly,2021-10-11,Mail,Major donor,Gala
+ca2f34b5-8b69-45f2-a110-a1194e65e9b7,77,Female,Christinemouth,Low,121.05,Annually,2023-08-31,Online,Repeat donor,Gala
+b706f4d0-c4a2-4ab3-9759-12e3fa083cd1,70,Non-binary,East Elizabeth,Low,598.71,Monthly,2021-10-20,Mail,Repeat donor,Gala
+f69170a4-57a1-4728-a086-e4ba2491c393,42,Non-binary,West Danny,Medium,284.48,Monthly,2023-02-03,Mail,First-time donor,Auction
+3757896e-6878-4d9d-a595-c91e76d2f1fc,21,Non-binary,Johnport,High,949.22,Monthly,2023-02-18,Mail,Major donor,Auction
+a447b445-1139-427b-9c72-8a43e6af39fc,60,Female,Petertown,Medium,133.64,Quarterly,2020-12-07,Events,First-time donor,Marathon
+a86c6b32-972a-4d51-9df3-4e34005598e7,60,Non-binary,Port Deborah,Medium,460.14,Quarterly,2021-02-11,Mail,First-time donor,Gala
+213a9d04-32a4-419e-a407-840fe4de3cb1,70,Male,Port Stephen,Medium,140.7,Monthly,2021-04-09,Events,Major donor,Marathon
+32b9a5fb-ea71-4a5b-a3e4-39a503b2b258,60,Female,Baileyview,Medium,399.64,Monthly,2023-03-24,Mail,First-time donor,Auction
+49fbca68-00bc-4979-a2a0-db0f554557eb,34,Male,North Joshuachester,Medium,463.59,Monthly,2022-09-20,Events,Major donor,Dinner
+70876750-fe39-47cc-9ee4-8eccad576532,60,Female,Henryfurt,Low,310.1,Monthly,2023-07-21,Online,First-time donor,Auction
+9843a423-8830-4014-a78e-1cc261b11294,57,Male,Amberville,Low,643.68,Quarterly,2020-09-25,Online,Repeat donor,Auction
+836ea440-61cc-4696-b240-61afb825e01a,65,Female,Port Amy,High,29.39,Monthly,2021-08-31,Mail,First-time donor,Gala
+896f1228-53ad-457e-882f-f2720382c211,40,Male,Marietown,High,815.42,Annually,2022-04-03,Events,First-time donor,Dinner
+d14e1e3f-1ff3-474c-8b5a-1670f501ac5b,55,Male,Solistown,Low,771.01,Annually,2023-11-04,Events,First-time donor,Dinner
+7f04705a-8f10-4e25-887b-bd724f4d2b59,73,Female,East Tinahaven,High,191.64,Quarterly,2022-03-25,Online,Major donor,Marathon
+1db2ee08-e711-4c7a-8e6e-3f6f609f9df3,72,Non-binary,Goodmanstad,High,556.15,Quarterly,2021-11-29,Mail,Major donor,Auction
+4e125f14-e29a-4b42-bcef-20fb87150dce,27,Female,Martinezmouth,Low,774.4,Monthly,2022-06-11,Mail,Repeat donor,Marathon
+a567930d-efb0-4c95-af82-d0d503721e85,57,Non-binary,Mistybury,Low,204.1,Quarterly,2020-08-19,Online,Major donor,Marathon
+ed834c02-83b2-4874-ad5e-a9a39014fc4d,63,Male,South Laura,Medium,604.87,Annually,2020-02-22,Events,Major donor,Auction
+d77ec63f-1cbc-4e70-aeb3-a4ef099c38b9,54,Non-binary,Joseberg,Medium,425.28,Monthly,2022-11-15,Online,First-time donor,Auction
+90454dd0-6510-4432-a8b0-2275fee99e01,50,Female,Turnerbury,Low,978.41,Monthly,2020-12-07,Online,Repeat donor,Marathon
+8b830825-59e2-41bf-a2d6-429704284a8d,78,Female,Lake Teresa,Low,753.27,Monthly,2020-02-09,Mail,Major donor,Dinner
+a97b8c48-cbc2-4a56-8636-2dd045ecd331,48,Male,Perryside,High,931.71,Quarterly,2020-10-01,Online,First-time donor,Marathon
+4d97a590-bd63-4164-8606-ac91717b598d,36,Male,East Jennifermouth,High,963.27,Monthly,2022-08-29,Online,Major donor,Auction
+437389c2-c580-4458-80d5-351c6dbe2e08,19,Female,Taylorchester,Medium,947.16,Annually,2023-01-16,Events,First-time donor,Gala
+5177417c-b2d9-4b41-9e06-f0cbb5f687cc,54,Male,Port Wesley,Low,226.85,Annually,2023-05-20,Events,Major donor,Marathon
+671e849d-fc7b-4202-a477-6283288a5ffb,19,Non-binary,North Terrance,High,60.82,Quarterly,2021-12-11,Mail,First-time donor,Dinner
+982e2511-2da0-4cef-843f-a9d23a4c58be,51,Female,South Benjaminport,High,912.58,Quarterly,2022-12-03,Mail,Repeat donor,Dinner
+1ef17292-0960-4e34-8944-f2c4d1223f4f,75,Non-binary,Mccormickville,Medium,853.94,Annually,2023-09-02,Mail,Repeat donor,Marathon
+96ba9fde-e471-4ca9-b7fe-eb40ecb41824,34,Male,Claudiaview,Low,197.24,Annually,2020-12-09,Events,First-time donor,Dinner
+f844c8cf-1ead-46bf-9b27-164738e7e566,39,Female,Darrenstad,Medium,943.26,Quarterly,2023-06-06,Mail,Major donor,Dinner
+3f0d93a4-3703-44de-aec3-ddc32c9b1437,30,Female,Lake Rebeccashire,Medium,234.7,Annually,2023-08-05,Online,Repeat donor,Dinner
+f41809d3-5010-4f43-80a8-376e4e8f3b6e,30,Non-binary,Lake Danielle,Low,434.56,Annually,2020-12-19,Mail,Major donor,Gala
+79add0f8-f12d-4434-a544-466844469b2c,49,Male,New Joshua,Medium,54.62,Monthly,2020-02-20,Mail,First-time donor,Auction
+27a4363a-d4d0-4f07-b641-0c9ef67235fc,30,Female,Gainesbury,High,595.68,Quarterly,2024-04-17,Events,Major donor,Marathon
+338490fe-bce1-4791-af3f-0deb998fea8e,62,Female,Chadtown,Low,404.02,Quarterly,2021-08-28,Events,Repeat donor,Gala
+7f5b7d1a-359c-4507-8e86-93cd32b4706a,24,Non-binary,Michaelside,High,198.56,Quarterly,2023-11-25,Mail,Repeat donor,Dinner
+c8ad3039-9eed-448c-92ba-887d8553255c,48,Female,North Scott,Medium,889.62,Monthly,2022-06-19,Events,Major donor,Auction
+be01ed9a-75bf-4029-8411-20b603ecfb19,20,Female,Ramirezburgh,Medium,992.5,Monthly,2022-11-02,Events,Major donor,Auction
+311492cd-f4da-4347-8c95-e309641622f8,44,Female,New Paul,High,442.82,Monthly,2020-07-15,Online,Repeat donor,Marathon
+054ebe57-6d81-4cd7-803b-63c2ef82ea86,40,Male,Silvaborough,Medium,523.59,Quarterly,2024-06-10,Online,First-time donor,Auction
+cf3acbbc-7fc6-493f-8fd6-68faf7379e64,32,Female,Hallhaven,Low,916.28,Quarterly,2020-09-08,Online,First-time donor,Dinner
+9508ed05-5e89-4e7b-a4ea-0e73cc8eeb2a,23,Non-binary,Lydiastad,High,631.39,Annually,2022-05-05,Online,Repeat donor,Gala
+1c12cf59-2ec4-49b5-a475-dd2aad7b5166,28,Non-binary,Port Barbarastad,High,636.61,Monthly,2023-03-24,Mail,Repeat donor,Gala
+8bdf660c-ce39-4500-8e6e-392773a03b9b,60,Male,Ochoastad,High,236.08,Annually,2020-10-23,Mail,Major donor,Gala
+7350f882-7455-41f3-a8c2-01eee20656f4,68,Non-binary,Ralphfort,Low,296.97,Annually,2023-03-21,Events,First-time donor,Gala
+a7732550-8cbc-479c-b505-a71184eebbb1,43,Male,Eduardoland,High,269.0,Monthly,2022-09-11,Online,Major donor,Marathon
+80f37f36-1c81-47a3-ae23-e7f72a0fdaa6,47,Female,Jamesville,High,832.15,Monthly,2024-06-05,Mail,Repeat donor,Marathon
+1fe2970e-6a9b-4c7f-83fb-61264cba5d8d,78,Non-binary,Mercadoville,Medium,992.55,Quarterly,2023-08-02,Mail,First-time donor,Gala
+9cda7a76-6741-4453-855b-786560f4937b,29,Male,North Heather,High,358.77,Quarterly,2023-11-02,Events,Repeat donor,Marathon
+f131c0af-6bbb-4b07-92c7-f56c0289111a,29,Non-binary,New Brian,Medium,282.03,Quarterly,2024-03-02,Events,First-time donor,Auction
+10026431-5723-44ee-a80c-df5c77403495,75,Male,Morrisfurt,Low,982.47,Quarterly,2021-08-13,Online,First-time donor,Marathon
+a7ff887e-ed46-4181-8f6f-d83d637c53d1,21,Male,Brandonmouth,Low,84.59,Annually,2020-01-27,Online,Repeat donor,Dinner
+ef071396-c586-4104-89a1-4cb37e4b03e0,30,Non-binary,Kristinbury,High,659.68,Annually,2021-10-07,Online,First-time donor,Auction
+f469bf0c-6f2b-49cb-bb69-a63a034c5820,53,Non-binary,East Brittany,Low,31.46,Monthly,2021-07-23,Online,Major donor,Auction
+44ef4d33-4af0-451c-8af3-f8c9f8fd740d,62,Non-binary,Christinechester,Low,297.1,Annually,2021-12-21,Mail,First-time donor,Dinner
+e1be578a-e1bb-413f-b2e0-438449b5f622,77,Female,Jacquelineberg,Low,489.6,Quarterly,2021-05-29,Online,Major donor,Marathon
+e068a426-3be8-41ad-83d0-588f8b9cc88e,43,Female,Lake Troyport,Low,378.93,Quarterly,2024-05-28,Online,First-time donor,Marathon
+4fb798ee-76b6-4cf3-bf1f-60d21f1d2348,41,Non-binary,Smithmouth,Medium,977.91,Monthly,2022-01-03,Mail,Repeat donor,Auction
+e7130379-247e-4096-85fd-759a6e4ead2d,55,Male,Ramirezport,High,101.02,Monthly,2023-06-09,Events,First-time donor,Gala
+a34d89d3-9b18-4aea-a811-2b5a094107cf,47,Non-binary,New Cody,High,258.53,Quarterly,2023-03-17,Events,Major donor,Marathon
+12beb38e-7678-4741-b3e8-94c6b21186f1,70,Male,Jamesberg,High,519.55,Annually,2020-11-30,Mail,Repeat donor,Gala
+2c0269cd-802b-43a5-a3f8-49d4ff415588,26,Non-binary,Molinastad,Medium,247.13,Monthly,2023-09-16,Events,Major donor,Marathon
+f2fbe3aa-a687-4f3a-a6bf-66b02e592bb4,74,Male,North John,Low,614.43,Quarterly,2020-07-13,Events,Major donor,Dinner
+309782cc-c959-433c-8fc4-180b64c68c96,50,Male,Heatherburgh,Medium,999.82,Quarterly,2020-10-23,Events,Repeat donor,Auction
+4d3990f1-59e8-414a-b0df-af6f1ea72434,37,Male,Campbellville,High,870.99,Annually,2023-03-02,Events,Major donor,Marathon
+89d741e6-05cc-4f7c-8a2f-87aa20d6b53b,76,Male,Nelsonfurt,Low,448.02,Annually,2022-08-01,Online,First-time donor,Gala
+0d910789-88ea-42d9-bf39-646f4d8099fc,63,Non-binary,Guerraview,Low,27.32,Quarterly,2023-05-21,Mail,Repeat donor,Auction
+3baa94a0-6501-4f79-8ab7-67b1aabe0897,25,Female,South Jacobview,Medium,625.48,Monthly,2021-06-15,Events,Major donor,Gala
+35a7a261-0499-40e2-a047-4b4097a1cef0,22,Male,Stephaniefort,Low,853.38,Annually,2021-12-23,Events,First-time donor,Marathon
+2b9e52cb-b39c-4078-b592-869c3dee095c,73,Male,East Garyside,Medium,614.22,Monthly,2022-12-08,Events,Major donor,Auction
+7f63aa18-04c1-4480-8cc5-e3b589061c7c,43,Male,North Stephanie,High,390.87,Quarterly,2024-05-10,Events,First-time donor,Gala
+0636acde-2341-464d-bc0c-cb97777c3ad0,50,Male,Annashire,Low,792.94,Quarterly,2021-12-14,Online,Major donor,Marathon
+78addb45-8e24-4cf8-8980-7f454f6181c3,45,Female,Julieview,Medium,226.05,Annually,2024-05-01,Events,First-time donor,Marathon
+35ef98af-4ff1-499f-95bb-24c6f5079d5e,55,Female,South Carmen,High,809.36,Quarterly,2021-03-20,Online,Repeat donor,Marathon
+fcde68e9-27c3-418b-ab0c-f5f0f17b8dea,80,Female,Lake Lisa,Medium,760.87,Monthly,2024-05-09,Mail,Repeat donor,Marathon
+40c2e787-143a-448b-b9e5-33cb36dc8229,24,Female,South Christopherton,High,618.85,Annually,2022-01-31,Events,First-time donor,Gala
+3f560ca1-dbdb-40ee-9375-49406a9983b5,68,Female,Lake Tylerville,High,674.76,Annually,2020-09-29,Online,Major donor,Marathon
+be6acd28-4c4c-4f98-99db-722111665288,56,Male,North Alyssa,Low,193.52,Monthly,2021-07-06,Mail,Repeat donor,Dinner
+3ffeeded-bcb0-4785-8494-c97441dc819a,44,Non-binary,Liside,Medium,939.59,Annually,2020-04-23,Events,First-time donor,Dinner
+8fc1cca9-5c1b-4133-aff7-a428987b7908,73,Male,Orozcoland,High,453.98,Quarterly,2020-02-20,Events,First-time donor,Marathon
+acc0ed94-7f55-46c8-9548-cdafb0296b4a,41,Female,West Michaelville,High,446.19,Quarterly,2020-01-25,Events,Repeat donor,Gala
+da15ccb1-fe7c-4c50-bda1-c0414a03d5e3,34,Male,Stephaniefort,High,200.98,Monthly,2022-10-21,Online,Repeat donor,Marathon
+e2cdcadd-ab34-46f5-a39b-028717c94db8,34,Male,South Saraborough,Medium,617.78,Annually,2021-07-25,Events,Major donor,Dinner
+c12dbc66-6c14-48ba-bb24-304bcc4595b5,55,Male,Stephensborough,Low,476.41,Annually,2020-01-28,Events,Major donor,Gala
+a9ce5d3e-1204-43d5-9c38-a867b4b90f53,78,Non-binary,North Robert,Low,555.73,Annually,2023-07-25,Online,Major donor,Dinner
+11469535-51f1-4b0a-8bed-5541ed1b7024,47,Female,Deborahshire,High,414.28,Annually,2022-05-16,Mail,Major donor,Auction
+146b16c3-b6e2-4262-8a47-50b4ba052cc6,28,Male,New David,Low,804.14,Quarterly,2021-09-17,Online,First-time donor,Auction
+94a699b2-f469-4cb6-8b85-0d0e68bfdd9c,30,Non-binary,West Zacharyfort,High,517.33,Monthly,2024-06-23,Mail,First-time donor,Dinner
+29627448-6608-46e3-a809-7c3eccb55bf1,44,Male,Caseyhaven,Medium,231.34,Annually,2021-10-27,Online,First-time donor,Marathon
+5212ac59-2701-4568-b32c-2221af638fc1,41,Non-binary,West Jessica,High,894.66,Quarterly,2024-02-09,Online,Repeat donor,Auction
+63ba99c6-9ef0-4ff6-ab38-46b8d6a6cabf,33,Male,Cruzside,High,262.46,Quarterly,2024-03-07,Mail,First-time donor,Dinner
+1fd4e485-5319-4850-b231-67d3e2fece44,79,Male,Port Kaylabury,High,444.82,Quarterly,2023-09-22,Mail,Repeat donor,Dinner
+2c6c8946-b8ce-4bd2-a05c-cf15bae5b3ba,77,Female,South Sean,High,145.1,Monthly,2021-07-19,Events,Major donor,Gala
+c6938fab-dcc4-4e46-b549-c656c62736a7,52,Male,East Ericashire,Low,205.31,Annually,2020-12-28,Mail,Major donor,Marathon
+c0af355c-42dc-4245-9da6-7ea6421b22e1,79,Non-binary,East Patricia,Medium,365.22,Quarterly,2023-09-08,Online,Repeat donor,Gala
+8c0f057e-1f67-4d9c-9404-95f8547a811e,21,Non-binary,New Stephanie,Low,818.03,Quarterly,2023-03-14,Mail,First-time donor,Auction
+e761f416-f657-40f7-95fe-3ea1663440dd,35,Male,Ashleystad,Medium,950.09,Quarterly,2020-04-18,Mail,Major donor,Marathon
+b27f24f5-b084-4ca9-bb98-01391a4ea6e1,75,Non-binary,Lake Michael,High,354.25,Annually,2021-03-26,Events,First-time donor,Marathon
+6cb3e03f-3f81-4e84-b6eb-29af6ce8d34b,70,Female,Nicholsonport,Medium,88.3,Annually,2020-08-08,Mail,Major donor,Dinner
+a3d2d312-f4c9-4a4f-9d4e-be125d5b1a71,64,Male,Brownview,Medium,941.17,Quarterly,2022-08-11,Online,Major donor,Marathon
+0d5ad20a-450b-424b-b5d8-d3254e32a35c,18,Female,West Travisside,Medium,613.2,Annually,2020-03-15,Events,First-time donor,Marathon
+191c9cd1-85f7-4942-89fd-79b3ee973b46,28,Female,Scottside,Low,214.61,Quarterly,2020-10-05,Events,Major donor,Dinner
+90cfcd5e-5928-4e79-8175-b2c45e0a85be,22,Non-binary,South Ashleyberg,Medium,453.32,Monthly,2023-09-16,Events,Major donor,Marathon
+2ee606df-6897-4d2d-9faf-8dfa26e727c2,58,Male,West Dillon,Low,761.09,Monthly,2023-10-03,Online,Repeat donor,Marathon
+e9fa38cf-efe6-48ee-adcb-a1af42824b35,69,Male,Howardtown,High,771.98,Quarterly,2023-08-04,Events,Repeat donor,Auction
+edf023e4-0122-4f43-b53b-023c11a7cf7c,57,Non-binary,Jacobfurt,High,547.51,Monthly,2024-05-05,Events,First-time donor,Dinner
+a1c34e42-53d0-42f0-bc12-c063985eb349,46,Male,North Jordan,Low,137.79,Monthly,2023-03-12,Events,Major donor,Auction
+5635b329-6167-4642-b73d-07551f431d04,61,Male,South Justinberg,Medium,724.83,Monthly,2023-04-30,Online,First-time donor,Gala
+56777b7a-45ae-4a5f-9fda-e103ddf15b1e,79,Female,West Kellyfurt,High,711.41,Quarterly,2021-10-17,Events,Major donor,Dinner
+28ed6439-ee12-417b-ac05-7f52ad4a656f,47,Non-binary,East Robert,High,10.91,Annually,2021-07-26,Events,First-time donor,Dinner
+47ff7bc3-2827-46d0-bd2c-a5a7dfdddeba,77,Female,West Leahberg,High,970.78,Annually,2021-11-25,Events,Repeat donor,Dinner
+5455880d-1d3b-4907-81fe-a4bdce190731,28,Female,New Anthonyburgh,Medium,181.65,Quarterly,2021-06-23,Mail,First-time donor,Marathon
+4209a01e-bee3-4068-bcb2-207f6eda7337,41,Female,West Donaldborough,Low,105.88,Annually,2022-11-02,Mail,Major donor,Marathon
+dc9e6ad8-abe1-4ec9-b04f-c7074bd99573,73,Male,Lake Kristaberg,Medium,313.27,Quarterly,2021-05-17,Mail,Major donor,Dinner
+9cce1b21-2001-4289-9622-d63a8b8414b0,56,Female,Port Christopherfort,Low,558.51,Quarterly,2021-12-08,Online,First-time donor,Auction
+c42f7f91-58f9-4664-bba5-43bf049a6b0c,66,Male,West Jamesfurt,Medium,682.15,Annually,2023-05-18,Events,First-time donor,Marathon
+ff8dd8f9-b1ce-40f6-a581-04bb8a1f5753,37,Non-binary,North Jose,Medium,497.32,Quarterly,2023-09-28,Online,Major donor,Marathon
+9612ee5f-f8bf-4b30-a46b-d1d45d12f61f,47,Non-binary,West Steventon,Medium,397.71,Annually,2022-03-31,Online,First-time donor,Auction
+ce42c5c4-b353-43a3-b274-810b4bcb71ac,41,Non-binary,New Brian,Low,963.22,Monthly,2024-03-07,Online,Repeat donor,Auction
+3693eb51-d305-423c-8dbe-144f8f415b64,38,Female,Thomasport,Medium,868.49,Monthly,2023-08-17,Events,First-time donor,Marathon
+e2137cef-da97-45c4-a543-0970d029e9eb,38,Female,Kaufmanhaven,Medium,864.2,Annually,2021-10-07,Events,Major donor,Gala
+38bcd728-c929-4d8f-86b7-47b43c9bc3f8,47,Non-binary,Port Melanie,High,411.82,Quarterly,2024-06-27,Mail,Major donor,Gala
+8fdb0772-535d-4e97-9117-ee0f8caec3dd,44,Non-binary,Lake Sandra,Medium,812.28,Monthly,2020-11-02,Events,Major donor,Marathon
+294765ce-0137-47a5-a7a6-955844f544f0,59,Female,Rachelhaven,Medium,750.46,Monthly,2021-11-25,Mail,Major donor,Marathon
+af61ed09-5862-4c63-83d7-1b6c9c87176a,39,Male,Rebeccachester,High,373.87,Annually,2023-02-12,Online,First-time donor,Gala
+3e54568c-3ab5-465d-8783-96d425d11f22,56,Non-binary,Heiditon,High,162.01,Monthly,2023-09-19,Online,Repeat donor,Dinner
+dfb5f6ea-7bbc-45ff-8b24-174d496ea545,69,Non-binary,Amystad,High,732.16,Monthly,2021-11-15,Mail,Repeat donor,Marathon
+975d2ac2-6e9f-46f3-b1a1-7ef309098a9b,28,Female,New Jimmyfurt,Medium,38.19,Annually,2022-08-29,Events,First-time donor,Gala
+921faea2-2246-44ce-88aa-24b323234472,58,Non-binary,Anthonyville,Medium,411.49,Monthly,2022-05-26,Mail,Repeat donor,Marathon
+068fb9d1-d661-4b41-b8d0-d27c968f2d96,20,Female,Jessicashire,High,972.47,Quarterly,2023-12-11,Mail,First-time donor,Marathon
+73741c2f-707f-49f4-90da-4aeddd508d2b,52,Male,Stevenfort,Medium,329.87,Monthly,2024-04-06,Events,First-time donor,Gala
+c2f3e9d3-b4e5-4772-ba09-a7df6628fe9d,23,Female,Brettberg,Low,937.41,Monthly,2022-11-08,Online,Repeat donor,Auction
+81a85d4d-1c26-4f24-9f58-a24029ff9d8d,39,Female,Mooreside,High,900.37,Quarterly,2021-06-25,Online,Repeat donor,Auction
+7a65bc62-1b5a-4e94-90e7-e21468807006,33,Non-binary,Powelltown,Low,316.63,Quarterly,2022-08-20,Events,Repeat donor,Dinner
+1ce471a7-07c3-4301-84f4-ec5ccfaabfe2,30,Female,Charlenestad,Low,286.98,Quarterly,2023-04-05,Mail,Major donor,Auction
+5051de8e-e428-4bcb-9378-47118ea6727e,47,Male,Lake Richardhaven,Low,181.05,Annually,2023-05-03,Mail,Repeat donor,Auction
+2db7496e-40d9-44c0-9344-e192baedc208,40,Male,Lake Marcfort,Low,357.19,Annually,2023-12-08,Online,First-time donor,Marathon
+c5291c2a-2c3a-4203-9120-0620ac6930e8,73,Female,Harrishaven,Low,893.4,Monthly,2022-04-09,Mail,Major donor,Marathon
+03aeb761-6ac1-45ed-adf8-74b467e072ff,36,Non-binary,New Kellyville,High,805.14,Monthly,2023-01-21,Events,Major donor,Marathon
+1fb8928a-74f1-40c7-8c8a-ad55209f42fd,79,Male,Hammondtown,Medium,647.41,Quarterly,2023-04-28,Mail,First-time donor,Auction
+67ea08c8-e1f8-420e-8f76-87e6de5ee710,23,Non-binary,West Rachelberg,Medium,457.18,Quarterly,2022-03-23,Events,Major donor,Gala
+c4999dda-a6cf-4ae2-a387-860c8a110fb1,30,Non-binary,West Randyburgh,High,88.9,Annually,2020-03-13,Online,First-time donor,Gala
+06a3ffea-79a8-473c-9fea-9c5c77539f1e,63,Non-binary,Port Claudia,Medium,626.31,Annually,2021-01-06,Mail,First-time donor,Dinner
+66d807c3-b5d3-4849-9680-806f86938437,18,Female,Reynoldsview,Medium,666.37,Annually,2022-04-12,Events,First-time donor,Auction
+65f6bdf3-0376-4ce0-9515-f08f055f395f,63,Non-binary,East Elizabethborough,Medium,805.29,Quarterly,2021-04-28,Online,Major donor,Marathon
+afe3a7d3-c190-44ee-8047-081ae728dbed,73,Female,Port Rhonda,Medium,392.81,Monthly,2023-11-23,Mail,Major donor,Gala
+bbf82bc7-dc94-460b-9831-d1a8258767ce,36,Non-binary,East Larrybury,Medium,205.09,Quarterly,2021-12-11,Events,Repeat donor,Gala
+277766f7-fa15-47cd-bf02-7722381b1476,23,Male,Jacksonberg,Medium,854.04,Monthly,2022-02-05,Mail,First-time donor,Auction
+97ea9f49-6b95-4533-b660-102f8f9d4c63,56,Female,South Zacharyhaven,High,783.09,Quarterly,2022-04-13,Online,Major donor,Marathon
+066ebd86-15d1-4bc1-9ce7-ffbdec8b3c12,26,Male,North Michelle,Low,231.9,Monthly,2023-02-03,Events,Repeat donor,Gala
+b1975673-332d-4597-a2a1-666b619b456f,30,Non-binary,Cohenton,Medium,963.21,Monthly,2021-07-18,Events,Repeat donor,Marathon
+697f3259-4dba-48cb-9579-d57126199308,56,Female,Port Katelyn,Low,764.76,Quarterly,2022-05-30,Events,Repeat donor,Auction
+6d02c0c6-a6cf-46a9-9a86-4d2df7ae584d,18,Female,Nathanielfort,High,955.87,Monthly,2024-06-12,Mail,Major donor,Marathon
+5347c32c-7a2a-4fbb-9c82-3f22fbd3e9a7,75,Male,Kristenshire,High,13.77,Monthly,2020-04-15,Events,Repeat donor,Gala
+46a12d4e-9f0e-4522-94d3-eb80e6b7dc7c,74,Female,South Melissa,Medium,816.24,Annually,2021-11-22,Mail,Major donor,Auction
+5294f922-0b69-4756-a392-4f5da254356e,67,Male,South Jerry,Medium,250.73,Annually,2021-12-06,Online,Repeat donor,Auction
+27ba84ec-c8f7-4113-82f1-7385aef77426,69,Female,New Janestad,Medium,897.58,Quarterly,2021-01-17,Events,Major donor,Marathon
+514c7294-fd9f-4df2-887c-853fb2d25d23,55,Female,North Emily,Medium,47.9,Annually,2023-08-08,Mail,Repeat donor,Auction
+1e17f51b-78e4-4f7b-bb04-c8b6fdcc4d0b,79,Female,West Bradley,Medium,129.57,Annually,2023-06-18,Online,Major donor,Dinner
+92042f4a-7a4b-4c55-a31e-73e7292c46f4,40,Non-binary,Port Richard,Medium,359.21,Quarterly,2022-09-15,Online,Major donor,Auction
+931c1c11-5ed0-4206-9d43-459c79c450c4,32,Male,East Andrewton,Low,41.43,Quarterly,2023-06-28,Events,Major donor,Dinner
+7074761b-948f-4db7-9cc3-877ccebcf33c,68,Female,Lake Samantha,Low,445.72,Annually,2023-05-23,Mail,Repeat donor,Dinner
+e2902027-d19b-4d14-80cc-43d26653be01,62,Male,Omarchester,High,726.69,Monthly,2021-01-15,Events,First-time donor,Dinner
+39bc5f01-82c1-4f09-9b4e-bcb58d1bfc32,45,Male,South Michelle,Low,365.46,Quarterly,2023-06-18,Online,Repeat donor,Marathon
+f11fe959-9cf0-4060-a7ae-36185ce7d910,48,Non-binary,North Samuelfort,High,582.72,Monthly,2023-12-01,Online,Repeat donor,Dinner
+67369439-8ea2-4096-9aaa-c892731255a8,24,Non-binary,Rodriguezstad,Medium,884.58,Monthly,2022-11-19,Online,First-time donor,Dinner
+9288b0d7-1709-4804-86cf-057e49fde03a,18,Male,Alexaton,Medium,795.15,Monthly,2024-03-20,Mail,First-time donor,Dinner
+6f72566f-d29c-4a62-a2e4-79eadb08bd1b,52,Non-binary,Hayesfurt,Low,209.49,Monthly,2023-02-23,Mail,First-time donor,Dinner
+3a990fab-2979-4b70-9c5e-fd0620a29739,56,Non-binary,West Ronaldville,Medium,488.25,Quarterly,2022-12-04,Online,First-time donor,Auction
+789cfb01-a862-4cc0-aaee-66920e249a6c,65,Female,West Brendachester,Medium,745.53,Quarterly,2023-04-20,Events,Major donor,Auction
+8154a0c1-1f63-42dc-8fbb-edc9a7580cf1,40,Female,Morganview,Low,252.65,Quarterly,2020-07-31,Online,Major donor,Marathon
+23228cc7-3c69-4140-8b72-35ee5878c705,46,Male,East Josephhaven,Medium,22.87,Annually,2022-04-24,Online,First-time donor,Auction
+63b8c457-c23b-463e-b2a2-1e47fdcb7afe,33,Non-binary,Kimberlyberg,Medium,144.54,Monthly,2023-08-19,Mail,First-time donor,Dinner
+8aa3eb1c-fd94-4b4e-b091-28eddebb6e0f,33,Non-binary,Luisburgh,Low,590.63,Annually,2021-10-07,Events,First-time donor,Auction
+65643353-ce2d-49a0-878e-359352c85b1d,64,Male,Shawnstad,High,42.99,Annually,2022-03-31,Online,Repeat donor,Gala
+d0b1fdd2-b65a-4f62-9a03-87852432a4f6,62,Non-binary,Tamiberg,Low,531.09,Annually,2021-06-03,Mail,First-time donor,Marathon
+06387883-1c6e-4085-aba2-e37f9a073c30,21,Non-binary,Veronicastad,Medium,345.16,Quarterly,2022-01-24,Mail,First-time donor,Marathon
+864dce2d-d0d4-439c-8c3a-00f565c72a3f,38,Female,Youngfort,Medium,320.36,Monthly,2021-07-13,Online,First-time donor,Gala
+a33f7e03-cdf2-4c41-9927-9b92ff8d963b,31,Non-binary,New Jameschester,High,31.09,Annually,2021-10-21,Events,Major donor,Gala
+d2803875-5e85-4a2a-80a1-b4f46d6533c7,20,Non-binary,Kennethport,High,366.5,Annually,2020-12-07,Mail,Repeat donor,Auction
+e376763a-6074-4552-94b9-39b4745d8283,39,Male,Port Graceborough,High,550.19,Quarterly,2022-01-11,Events,First-time donor,Marathon
+bef63bbd-c99f-4bd2-8ac8-0b479c9c39b8,51,Female,Goodmanview,Low,557.32,Monthly,2021-02-09,Events,Repeat donor,Dinner
+002cd356-d287-48b5-9004-cef2808cbb70,80,Non-binary,Robinsonmouth,Medium,446.15,Annually,2020-10-03,Events,Major donor,Gala
+e9dc1623-c303-4799-a707-d5e74204a546,56,Non-binary,North Mark,High,971.61,Monthly,2021-01-13,Events,Major donor,Dinner
+e6202014-2739-42aa-9a05-0106ca14ebc8,56,Female,Jacobchester,Medium,635.98,Monthly,2021-07-14,Mail,Repeat donor,Gala
+a354cb28-ba78-4a54-863d-805a0b5f50c0,23,Male,Phillipsshire,Low,190.54,Annually,2020-07-15,Mail,Major donor,Auction
+972bcfda-d372-4b5d-83a0-12776d5530e4,27,Male,Cooperton,Low,690.95,Monthly,2022-07-31,Online,Major donor,Auction
+ab2370c8-5b55-490d-b304-c549f48f195a,52,Non-binary,Bassfurt,Medium,972.19,Monthly,2023-08-01,Events,First-time donor,Marathon
+494c9991-c4ec-4e94-9f34-747999322984,67,Male,Lynchchester,High,293.34,Monthly,2021-06-30,Events,Major donor,Gala
+534b548b-5c83-4467-8597-b5d80bae9333,24,Non-binary,Port Rachel,High,185.73,Monthly,2023-06-16,Online,Major donor,Gala
+ae145d67-e2d0-4180-8f08-179402f96c81,29,Male,South Deborahfort,High,858.65,Monthly,2020-10-08,Events,First-time donor,Marathon
+67101f5e-b0e0-4ac0-a198-cbee0b1e8e90,54,Male,New Melodyborough,Low,272.19,Quarterly,2023-06-24,Online,First-time donor,Marathon
+b7ce1178-314b-4341-801b-6e9c1b7cdaf0,52,Male,Allenborough,Medium,408.65,Annually,2022-08-05,Online,Repeat donor,Gala
+175a8bd3-e5cb-4efc-aa7a-cc02d7afe9b8,23,Female,North Charles,High,337.57,Quarterly,2021-03-20,Mail,Major donor,Gala
+ecd06100-0ab9-408a-ab46-ededcd5bd828,52,Female,North Maryburgh,Medium,435.26,Monthly,2023-01-30,Mail,First-time donor,Dinner
+6184cb2f-b9a2-4760-aa64-d3dfd2db46d3,54,Non-binary,Lake Jacqueline,Low,23.95,Annually,2023-11-01,Online,Repeat donor,Auction
+2db397af-d744-4545-8fc3-ececb6353af4,44,Female,East Cynthia,Low,961.87,Monthly,2020-11-24,Online,First-time donor,Gala
+10329825-b60d-4952-8025-ff9c2a93ed7b,48,Female,Port Heidi,Medium,192.43,Monthly,2022-09-01,Mail,Repeat donor,Gala
+94481de8-d037-499f-9e3b-6194b2d04582,27,Female,Smallview,Medium,622.29,Quarterly,2023-06-16,Online,First-time donor,Auction
+a31f872e-232f-4d7d-ab6a-e402c1fd76ce,20,Female,Sheppardchester,High,466.76,Annually,2021-12-07,Mail,Major donor,Auction
+7c659f9d-239a-4471-b935-b9ca708914cb,40,Non-binary,Cooperville,Low,247.23,Quarterly,2020-10-15,Online,Major donor,Marathon
+9b19d0fa-886b-449b-924c-8637332edd60,47,Male,Port Raymond,Low,470.51,Quarterly,2022-04-22,Mail,Major donor,Auction
+f8bfaa58-8940-417e-9b98-92ed2db9d09a,43,Female,New Herbert,High,853.4,Quarterly,2023-02-04,Events,Major donor,Gala
+f40a3351-7adc-4e75-b855-08174e6808d2,62,Male,Burgessborough,High,784.94,Quarterly,2022-12-11,Events,First-time donor,Gala
+81727e4d-0088-41a8-b6e7-caf06afe774d,20,Female,New Randallmouth,Medium,711.52,Quarterly,2020-08-02,Online,Repeat donor,Auction
+5cafa0b0-d4bf-4c64-b1d8-931431097912,36,Non-binary,Lake Michael,Low,791.44,Quarterly,2021-01-07,Online,Major donor,Auction
+337635d3-687c-4f13-9289-8b04041b13a4,21,Non-binary,Christyport,Low,471.86,Quarterly,2020-03-13,Mail,Major donor,Dinner
+c4fa3909-3777-4202-b7a7-0894c7423629,58,Male,Joneston,Low,149.06,Annually,2020-07-29,Mail,Major donor,Gala
+2a7e5f80-982b-4fe7-8a67-c5078340be1b,57,Female,East Megan,High,51.69,Annually,2024-06-02,Online,Repeat donor,Marathon
+85f35fb6-79c4-4435-bb45-7dc274b77f98,22,Female,Michaelport,Low,410.35,Annually,2022-07-31,Events,First-time donor,Marathon
+689be959-74aa-44d3-ab52-683568cb2703,54,Male,Smithshire,High,325.33,Monthly,2021-06-14,Online,Major donor,Gala
+72b04c23-285a-4d0b-9655-579ccfbcbfc5,21,Male,Moniquemouth,Low,962.66,Quarterly,2020-05-28,Mail,Major donor,Gala
+7f18d3da-328f-423a-9f7d-9d71bcab9527,50,Non-binary,Port Jenniferburgh,High,158.01,Annually,2023-12-22,Mail,Repeat donor,Dinner
+8d202400-6093-4067-9769-bbdbc7f1a80f,32,Male,Lake Stacybury,Low,122.15,Monthly,2024-05-14,Online,Major donor,Gala
+6096781b-06f5-422d-8e22-ed99e32cc990,46,Non-binary,Harrishaven,Medium,143.38,Annually,2022-06-16,Events,First-time donor,Marathon
+3113a881-4a0e-45d4-99c4-356c6a4921ca,53,Non-binary,Aprilhaven,High,776.32,Quarterly,2020-03-22,Events,First-time donor,Marathon
+847ace87-ca74-4fcf-9720-1fa0e2cd228d,61,Non-binary,Thomasshire,Low,909.47,Quarterly,2023-08-20,Events,Repeat donor,Auction
+bb4fa398-c4a4-49d9-b914-fbe09370eb4c,80,Male,Hendersonton,Medium,24.46,Monthly,2024-04-29,Mail,Repeat donor,Marathon
+4b6e6314-2eb6-4b21-8918-ed5f7e5b4d95,72,Female,Conradport,Low,633.16,Monthly,2022-05-11,Events,First-time donor,Gala
+3ced04c1-1bce-440d-acf8-87309acfe166,18,Non-binary,New Tyler,Medium,166.25,Monthly,2022-05-06,Mail,Major donor,Auction
+f767ecf7-e865-4768-bab6-0bc52b12e847,63,Male,Mirandaburgh,Medium,443.86,Quarterly,2021-05-07,Events,Repeat donor,Marathon
+87c508d3-b09f-4979-b7fa-c92c399e4e0d,38,Male,New Dawn,Medium,721.05,Quarterly,2023-11-26,Mail,Major donor,Gala
+122eebd2-3ad7-4877-aeb8-4d68349bf3c7,51,Male,Kennethview,Low,709.0,Monthly,2024-03-13,Events,Repeat donor,Dinner
+9079cb02-3928-42d3-8e3a-f45df909fd01,45,Male,West Carolynchester,Medium,190.49,Monthly,2024-03-10,Events,Repeat donor,Auction
+ab849f23-e29c-47d9-8a46-b0ffdd4b93e9,29,Male,Gonzalezhaven,Low,814.67,Monthly,2024-05-14,Online,Major donor,Gala
+c5389af5-0652-40c6-8377-2735b209ff6f,64,Male,North Luisberg,Medium,410.05,Monthly,2023-07-15,Mail,First-time donor,Dinner
+66bf4ecf-e5b5-46ab-982e-c60bd38d9188,57,Female,North Michael,Low,572.62,Monthly,2023-10-24,Events,Major donor,Gala
+eebc0779-24b9-4bd3-84cc-4639402f442f,18,Female,Lake Karen,High,80.74,Quarterly,2023-11-02,Mail,First-time donor,Marathon
+772a78c0-6305-47f9-9365-517b3ab16e4c,32,Non-binary,New Zacharyfurt,High,861.45,Annually,2022-09-21,Events,First-time donor,Marathon
+8e93cfdf-d6d2-46e7-802e-9e03d5503226,65,Non-binary,Melindafort,High,159.62,Annually,2020-02-23,Mail,Repeat donor,Gala
+1666bd30-4a21-4553-8234-6112bf71204c,80,Non-binary,West Sara,Medium,454.21,Monthly,2024-03-12,Online,First-time donor,Dinner
+b2082931-0147-4909-a4a1-da810b951185,53,Male,Allisonshire,High,727.54,Quarterly,2020-10-04,Mail,Major donor,Dinner
+719fecb7-c800-420d-b8a4-7e98ce8e5928,42,Male,North Danielleborough,Medium,847.17,Monthly,2023-04-26,Mail,Major donor,Auction
+51b7e3dc-03c9-4426-bf02-c6db2d8a5d1e,37,Female,Josephfort,High,410.98,Quarterly,2022-09-17,Mail,Major donor,Dinner
+506757ca-2ed9-44c8-bc01-f9f4ba564506,73,Male,South Antonioborough,High,718.77,Annually,2020-07-14,Events,Major donor,Dinner
+8b69f9e4-3866-4e70-97fd-51d10e5314e5,31,Non-binary,Alisonton,Low,364.88,Monthly,2021-03-25,Online,Repeat donor,Auction
+112bd5e6-92e1-423f-a2af-b9a7721af964,47,Male,Emilyshire,Medium,140.99,Quarterly,2024-06-05,Mail,Repeat donor,Marathon
+5d2abd70-2adc-4103-8f94-4bc4d24b8fdc,53,Non-binary,Palmerview,Low,986.05,Quarterly,2024-01-08,Online,Repeat donor,Marathon
+e9b75b6c-377e-4c21-b784-fb019697a120,40,Male,Grantmouth,Medium,460.91,Annually,2021-06-02,Online,First-time donor,Gala
+61d2d484-6589-4569-8af0-7ab735ecf049,76,Female,Lake Patrickberg,Medium,900.37,Monthly,2022-07-14,Mail,First-time donor,Marathon
+bfdcdec2-59ba-40dc-a70c-b030ab29d118,40,Male,North Johnny,Low,875.76,Monthly,2023-06-21,Events,Major donor,Gala
+e5930ed9-29bd-4708-a296-79fae797d93f,23,Female,Port Jamieton,Low,990.59,Monthly,2020-11-09,Events,First-time donor,Gala
+7ede9b1f-fc52-440c-b160-5eb6a49f30a0,50,Non-binary,Rebeccaville,High,663.22,Quarterly,2020-01-20,Mail,First-time donor,Auction
+15f2a06b-3e29-4a5e-885f-e440a19e0986,28,Male,Alvaradoville,Medium,350.95,Monthly,2024-05-01,Online,Repeat donor,Dinner
+1137fdc9-f60c-4c8b-8763-39f0fa1d7111,51,Male,Lake Robertland,Low,536.74,Monthly,2023-09-08,Online,Repeat donor,Auction
+e695473f-0e5d-4432-9d4e-46a83dd84b37,49,Male,West Pamela,High,456.29,Quarterly,2023-06-23,Events,First-time donor,Gala
+5dc5c9ba-033e-4802-89b9-dd8c9fcb55bd,77,Male,Madisonfurt,Medium,997.29,Annually,2021-05-23,Mail,First-time donor,Auction
+9a89d1fd-be5d-4184-980b-34fd065fddae,39,Male,Wayneton,Medium,422.83,Monthly,2021-11-08,Online,Repeat donor,Marathon
+5aa60091-e913-48b0-bfb0-66ed86593c56,33,Male,Yolandastad,Low,653.64,Annually,2022-04-16,Events,Repeat donor,Auction
+8ae48b50-da74-44d1-89f1-c15d5384f6f9,45,Non-binary,Port Maryside,Low,397.53,Quarterly,2022-07-28,Events,First-time donor,Marathon
+0d597761-6247-4ca6-89f1-d00bdfcd4101,46,Female,Port Sergio,Low,283.09,Monthly,2022-12-01,Mail,Repeat donor,Dinner
+e348e756-92dd-45b4-b31e-1fc8b748bed2,78,Male,Lake Ronnie,Medium,863.77,Quarterly,2021-07-06,Events,Repeat donor,Gala
+56619b11-10e8-455a-ba43-61a9dff35b9c,61,Male,Lake Steven,Medium,350.27,Monthly,2023-03-18,Online,Repeat donor,Marathon
+a95e40b9-294e-4a25-bd91-aafd18ff7e45,69,Female,South Alexandria,Medium,654.72,Annually,2022-11-08,Online,First-time donor,Marathon
+d33167e0-9f85-4281-85cc-b410e5c559ae,27,Male,Princeview,Low,168.45,Annually,2020-09-03,Mail,Major donor,Gala
+48efedab-caf5-4b7d-8d7e-50333cb1889f,68,Female,South Lauraview,High,548.93,Monthly,2023-06-12,Mail,Major donor,Dinner
+58228650-7498-4a28-8495-d01e407f6067,46,Male,Williamland,High,810.31,Quarterly,2021-09-16,Mail,Major donor,Gala
+d98ea3d6-a2bc-40e0-8e29-f38b367fb3b7,78,Male,New Nicole,High,189.24,Annually,2024-03-13,Events,First-time donor,Gala
+118ba122-4c4a-4d91-bbb1-f0b4066db37a,45,Male,Myerstown,Medium,561.78,Quarterly,2022-04-12,Events,First-time donor,Auction
+3401ab8b-9507-4e05-8dbb-e3c4bef162ff,64,Male,New Paul,Low,209.49,Quarterly,2020-08-02,Online,Repeat donor,Marathon
+1482e818-fccc-4931-b2da-783f623fdea3,57,Female,East Janet,High,559.22,Monthly,2023-12-21,Events,First-time donor,Marathon
+7d5ca061-0d23-405c-bad3-507b3523e471,69,Female,Josemouth,Low,170.04,Quarterly,2023-06-05,Online,Major donor,Gala
+7c9a60a7-be05-42ca-97c9-7bf2be32a69d,21,Female,Cartermouth,Low,292.66,Annually,2021-05-11,Events,Major donor,Gala
+6ee0b2f0-3dea-496f-ad96-08ed54611b73,53,Male,Lake Samuelburgh,High,909.89,Annually,2020-12-24,Mail,First-time donor,Gala
+e9fd7ba3-b93a-48ca-9588-e76eb6489b9c,66,Non-binary,Robinsonport,Medium,886.97,Annually,2020-01-04,Online,Major donor,Gala
+c6e503a3-f452-4f8a-895a-664d91be8051,24,Non-binary,Watsonshire,Medium,721.98,Annually,2022-12-02,Events,Major donor,Gala
+d3aa9e40-6d9b-4db2-9ad6-d394f8c02155,64,Male,Michelleview,Low,11.8,Monthly,2024-06-14,Mail,Repeat donor,Dinner
+a36b90f0-b79f-4414-b0a5-c2b44e7d1b9f,26,Non-binary,Port Maureen,Low,595.86,Annually,2020-05-31,Online,Major donor,Dinner
+85d1ccb2-f63e-4507-a422-f0b401da3916,78,Female,East Sarahview,Low,680.73,Annually,2020-12-29,Mail,First-time donor,Marathon
+7db87cbc-4237-4ae7-b543-559127ed23df,23,Female,Dawnmouth,Medium,882.87,Annually,2020-11-10,Online,Repeat donor,Auction
+832c394c-9989-4ba3-9006-040f8c235d19,44,Non-binary,East Jonathan,Medium,591.63,Monthly,2021-06-23,Mail,Repeat donor,Gala
+f27c1d64-476f-4228-8d7a-112a1338ccbd,73,Male,Davenportport,Medium,508.62,Quarterly,2021-07-12,Mail,First-time donor,Auction
+813feb55-76a9-4e62-8652-b9c103f52484,68,Non-binary,Amyberg,Medium,710.97,Annually,2021-03-23,Online,First-time donor,Dinner
+e9dfc481-5f3a-4c33-a261-ffcc89492894,37,Non-binary,Amberberg,High,448.54,Quarterly,2021-07-03,Mail,Major donor,Marathon
+d8432000-6244-4eb9-9a45-31537cee0c9c,41,Non-binary,Carrieton,Low,315.4,Monthly,2020-06-20,Events,Major donor,Dinner
+a35e8cfb-50b2-4bd9-9f19-6974204fb49a,30,Female,South Jameschester,Low,698.63,Quarterly,2023-02-02,Online,First-time donor,Auction
+bd981e0a-28bb-4e68-a3aa-46ad3046d546,80,Male,Chavezton,Low,604.85,Annually,2023-11-11,Online,Repeat donor,Gala
+8693f97c-1b5a-4abb-9555-fbcffbfe5192,72,Female,New Brendaborough,High,437.85,Annually,2023-03-24,Events,Major donor,Auction
+d64fe59d-8a91-48c4-891b-3a383a14f2bb,40,Non-binary,West Michael,High,725.66,Quarterly,2022-02-14,Online,Major donor,Dinner
+8b059c2e-f97a-4308-bc63-0f67fb7ad749,45,Female,Lake Holly,High,751.75,Quarterly,2020-09-26,Mail,Major donor,Gala
+6971f505-234a-45af-a768-89f7487f3440,68,Female,Port Robert,High,953.51,Annually,2022-07-24,Mail,First-time donor,Gala
+d2c42c1a-af37-438a-a1d0-e772eb2a2e3e,21,Female,Walkerport,Medium,249.24,Monthly,2021-11-17,Events,First-time donor,Auction
+7198bc68-6514-46f4-b52d-18d829438b33,68,Female,New Briantown,Medium,625.98,Quarterly,2020-01-14,Events,First-time donor,Marathon
+d558ebaf-2391-4807-86ea-409f0d8a6eef,79,Male,South Karen,High,167.96,Monthly,2023-07-08,Events,First-time donor,Gala
+b369e560-2708-4946-90da-706d9d3d4749,71,Non-binary,Malonehaven,Medium,666.73,Quarterly,2022-06-04,Online,First-time donor,Auction
+93109600-8a1c-427d-8013-b410eb3f1949,69,Male,Susanport,High,493.18,Annually,2020-02-01,Online,Major donor,Dinner
+8e97ef37-3e55-4f17-a8a2-0607dcb5ba88,59,Non-binary,Jonathanburgh,Medium,273.26,Monthly,2022-05-15,Online,Major donor,Auction
+72beb8b6-6163-40cf-adae-a41c330fccb2,45,Male,East Paul,Medium,918.51,Quarterly,2023-06-21,Online,Major donor,Marathon
+df0ab493-899f-4087-9cdf-d3394f50d736,70,Non-binary,Paulborough,High,605.05,Quarterly,2020-10-17,Online,Major donor,Gala
+7262d9a9-7676-45b9-9e4f-233f7e7e9578,45,Female,East Priscilla,Medium,801.17,Monthly,2021-05-31,Online,Repeat donor,Dinner
+10f81286-47a8-4894-be1b-4323cfcd0951,58,Non-binary,South Amandabury,Low,384.89,Annually,2023-05-02,Online,First-time donor,Auction
+4d7bfeb6-d49e-4270-82c5-0eefd25b7f0c,22,Non-binary,West Davidland,High,334.95,Quarterly,2021-11-17,Online,Major donor,Auction
+f3c7fd23-b2e5-430f-9257-fb07993f5800,18,Non-binary,Williamfurt,Medium,504.76,Quarterly,2023-08-19,Online,Repeat donor,Marathon
+766727dd-2c2a-415f-a66f-0ada8337b0f5,33,Female,Jaimestad,Low,697.17,Monthly,2023-05-05,Online,First-time donor,Marathon
+0f3e16a7-5ab2-429a-9d34-435eb19dd66a,36,Non-binary,Riveratown,High,306.85,Monthly,2023-04-11,Online,Repeat donor,Marathon
+718d5d9b-0c42-41a3-a548-8291fa3eb294,30,Non-binary,Kevinmouth,Low,219.16,Monthly,2020-01-22,Online,First-time donor,Marathon
+473611c5-dc7c-4abf-8e5b-76a59db721bb,77,Non-binary,Wrightmouth,Low,573.61,Quarterly,2020-06-19,Online,Major donor,Dinner
+d1e62546-cf87-49aa-bb61-cd82dbdb947a,74,Non-binary,Eddieburgh,Low,534.72,Annually,2021-11-08,Events,First-time donor,Gala
+1d1a88c8-cfa7-4ebc-9c89-262738278e4c,51,Female,Lake Stephen,Low,759.87,Quarterly,2023-03-03,Events,Major donor,Marathon
+7eb3a249-6a3a-4915-9706-41070f616211,77,Female,Christianville,Medium,373.56,Monthly,2023-05-22,Mail,Repeat donor,Auction
+6f7fd9d3-efd0-4d24-9eba-e46d7402bc7b,19,Female,Thomasbury,High,407.96,Monthly,2020-09-18,Mail,Repeat donor,Marathon
+1a7f2900-2ea3-49b0-a33b-864a280543a5,59,Non-binary,Angelatown,High,717.07,Annually,2021-02-15,Events,Repeat donor,Dinner
+b4df1b09-cc7d-4359-906e-02a90bc02490,32,Male,Denisemouth,High,111.84,Annually,2024-02-08,Mail,Major donor,Dinner
+efb23117-a1a4-49b7-b9b1-674cf5dace65,79,Male,South Davidburgh,High,958.33,Quarterly,2020-10-18,Mail,Major donor,Marathon
+d698e7fe-9cb2-41ea-bfe0-6b80865c4873,28,Non-binary,West Branditon,Medium,376.41,Monthly,2022-11-29,Events,First-time donor,Gala
+17c3292c-bcb9-4711-bec4-e75fffd756ff,32,Male,Robertborough,High,113.71,Annually,2024-05-17,Online,Major donor,Dinner
+989abc13-706f-4830-8c4a-b5b9ef449a18,53,Male,North Nathan,High,768.84,Quarterly,2023-01-30,Events,Repeat donor,Dinner
+5fe10ae2-632d-497f-85a6-0485882c21ab,39,Non-binary,Mitchellfort,High,534.89,Annually,2020-08-01,Online,Repeat donor,Marathon
+0ef6f0b4-f60a-4e45-be7c-f591dbf67134,50,Non-binary,Valentinetown,Low,96.57,Monthly,2024-05-03,Events,Major donor,Auction
+8838fcdc-bfc0-428e-ade6-3388415fa6a6,36,Non-binary,West Aaron,Medium,925.77,Monthly,2023-12-30,Mail,First-time donor,Marathon
+df810502-5f75-4ac0-b949-5f1450e8beb0,51,Male,Lake Andreaton,High,959.52,Monthly,2022-11-21,Online,Major donor,Marathon
+9e344b33-ecb7-4a4b-a710-c7627db1f593,58,Male,Halltown,Low,246.5,Annually,2023-05-05,Online,Repeat donor,Marathon
+1b74dee7-424f-4c4b-bce0-83a64d0aadf2,21,Male,North Teresashire,Medium,359.4,Monthly,2020-06-26,Mail,Major donor,Auction
+b21262d9-9962-41ea-87c2-a2f40b1c0d25,64,Female,North Jonathantown,Medium,833.06,Quarterly,2022-04-20,Mail,Repeat donor,Dinner
+eb1b76f1-e0df-4404-9939-3b699e596425,32,Non-binary,East Zachary,Low,424.64,Monthly,2022-05-14,Events,Major donor,Auction
+922c43d2-5f7c-42f3-9f01-c4a9003b768f,43,Female,Brooksville,High,184.12,Monthly,2022-05-13,Mail,Major donor,Gala
+843583a8-2bf8-459e-8e0b-a69fb4bb65e2,48,Male,Ericburgh,Medium,402.93,Quarterly,2022-05-16,Online,Repeat donor,Marathon
+92108e7e-a4e3-4083-a034-4745398d4685,71,Male,Lake Wendy,Low,725.26,Quarterly,2022-01-13,Events,Repeat donor,Auction
+ff97d107-25e9-4f84-be97-f9c1931adef0,48,Female,South Glennview,Medium,459.42,Quarterly,2021-07-09,Online,Repeat donor,Marathon
+c72f25bd-9a1d-4831-9f6b-610d0c851992,71,Male,Glennmouth,Low,909.31,Annually,2024-02-18,Events,Repeat donor,Auction
+8fc53d00-e49a-4f61-ae18-8e74f43898f6,24,Male,South Devin,High,121.56,Annually,2020-02-10,Online,First-time donor,Gala
+30616044-e2f9-4298-9b8e-ac78d6f451e4,76,Female,Davidfurt,High,686.02,Monthly,2021-08-27,Events,First-time donor,Marathon
+97ddfe77-f90b-4e6b-9a95-6b5814031f74,20,Non-binary,Hestershire,Low,468.34,Monthly,2022-12-25,Mail,Major donor,Dinner
+7f9a3c2e-15ed-45c8-b459-68a92ee0a2f0,28,Male,Amberview,Medium,468.92,Monthly,2022-10-05,Events,Major donor,Marathon
+c054c98e-67a9-454f-aedd-061a4ab35030,71,Male,West Morgan,Low,725.66,Quarterly,2023-10-22,Online,Repeat donor,Dinner
+c8186371-c4e6-47ec-abbb-6d0a604832b3,42,Non-binary,Clineton,Medium,896.69,Monthly,2020-10-09,Online,First-time donor,Gala
+c7734380-fa0f-481b-8bb8-1e4f41759e4f,42,Non-binary,West Erin,Medium,512.85,Annually,2020-05-14,Mail,First-time donor,Dinner
+9e7c2c2a-69d3-457d-91fb-9212f3ec96a5,53,Male,New Jasmineton,Low,156.87,Monthly,2023-02-16,Mail,First-time donor,Marathon
+f58d28c3-3d29-49e4-8e71-ca7e05ca23b1,20,Male,East Nathan,Low,706.88,Monthly,2023-11-29,Online,First-time donor,Gala
+145e61c6-61e9-4aba-b0a4-e07d21320a3d,58,Male,New Karenmouth,High,765.31,Annually,2022-12-09,Online,First-time donor,Dinner
+5e212e52-862f-4af8-a946-ec79642ad866,41,Female,Schmidttown,Medium,392.45,Annually,2021-04-01,Events,Repeat donor,Auction
+c175d885-1854-497a-b1d4-2e276b625191,56,Non-binary,West Deniseport,Low,464.26,Annually,2020-11-21,Online,Major donor,Dinner
+cefbf787-d849-4ff8-b050-9dae97888f12,68,Female,Lake Tinatown,Medium,530.6,Monthly,2020-03-19,Mail,First-time donor,Auction
+312ec3ca-bf66-41a3-8c7e-f984125b37ec,25,Male,Lake Erin,Medium,617.5,Monthly,2020-04-10,Mail,Repeat donor,Auction
+3d4697e9-6532-4ebb-b5a3-66929e97865b,35,Female,Melissamouth,Medium,781.23,Quarterly,2024-01-23,Events,Major donor,Dinner
+59dc8063-deb7-41c0-a20e-c1afeec929eb,25,Male,Williamsbury,Low,827.34,Annually,2021-03-25,Events,Repeat donor,Marathon
+ebc1c369-e44d-494f-86ac-fed34e419122,25,Non-binary,Victormouth,Low,119.19,Annually,2022-11-07,Mail,Major donor,Gala
+c11a1ddb-5f15-47d5-8bbd-f341232bd95d,40,Non-binary,South Michael,High,710.05,Monthly,2021-05-13,Online,First-time donor,Auction
+bf00a580-9660-4494-bc6c-691f9f1b7430,31,Male,West Alicia,Low,315.6,Quarterly,2024-04-24,Events,Major donor,Dinner
+57ab6581-1579-467a-8da6-be7d88c21579,54,Non-binary,New Rodney,Low,533.67,Quarterly,2020-07-30,Events,Repeat donor,Gala
+5f5ffb1a-d67f-42a8-a1b9-0976d081af06,63,Female,Lake Jesse,Medium,312.31,Annually,2022-10-08,Online,Major donor,Marathon
+b5b3d772-2c41-4b5d-a57c-8b3eccc9eac3,52,Non-binary,Campbellland,Low,513.92,Annually,2023-10-07,Mail,Repeat donor,Marathon
+1ef9f12e-3ba4-486c-9217-13ff3ea6bf32,52,Male,New Luisbury,Low,56.79,Monthly,2023-12-13,Online,First-time donor,Dinner
+432ca75e-7603-495b-8256-d6b2fe222f63,53,Female,Dickersonmouth,Medium,673.85,Annually,2024-03-10,Events,First-time donor,Gala
+8e840ee6-c6d5-4584-be4e-c91377861305,72,Male,Robinsonshire,Medium,574.2,Annually,2022-11-10,Events,First-time donor,Dinner
+0bd2c685-bb23-49f5-ada8-1ca0ae9920b6,44,Non-binary,South Wesley,High,17.03,Annually,2021-09-01,Online,Repeat donor,Gala
+c6bd78e6-9e97-442c-a229-d934538e1fe4,31,Female,Hollybury,Low,882.15,Quarterly,2021-01-18,Online,Repeat donor,Dinner
+a611f080-ce93-4798-8cdc-8d355948a67a,36,Male,Sheilamouth,High,766.27,Monthly,2023-07-11,Mail,First-time donor,Auction
+2c06afa7-db7e-45b2-936a-558d202e9d98,62,Female,West Waynemouth,Medium,420.3,Monthly,2023-04-16,Mail,Major donor,Marathon
+c36508de-154e-478a-afd1-360512e7bd65,33,Male,South Meredith,Medium,848.39,Annually,2023-05-26,Events,Major donor,Dinner
+1e797de1-8718-4b98-bd67-6d1e4fe6c36f,63,Male,Jamesshire,Low,830.85,Quarterly,2024-02-21,Online,Repeat donor,Dinner
+31a7a2c7-c58d-4c2c-905e-91ec627561ad,74,Male,Marthabury,Medium,657.63,Quarterly,2021-01-24,Online,First-time donor,Marathon
+af2b8b33-8201-4a90-acdd-5ccec8163b48,19,Female,Emilyfort,Medium,282.26,Monthly,2023-09-16,Online,Repeat donor,Auction
+abe4f16e-4f95-45b9-8e4e-c81bd0c92ec2,53,Female,West Joy,Medium,441.2,Annually,2022-11-06,Events,Repeat donor,Marathon
+7572e748-612b-4cc1-8f52-b3d6cba84e3d,50,Male,Port Gabriel,High,651.11,Annually,2024-04-19,Online,Repeat donor,Gala
+d5901dd0-0380-4593-917a-7b19412daf6b,20,Male,Jonesside,High,55.39,Annually,2023-08-06,Events,Major donor,Gala
+4b4593bf-c598-4dc1-98a7-c37016ddd372,18,Female,Josephfurt,High,157.45,Annually,2020-01-08,Events,Major donor,Dinner
+97d6fcab-bbc6-4ae3-81ea-e8e3bc8d9cb2,26,Female,Garyton,High,197.49,Quarterly,2021-12-23,Events,First-time donor,Marathon
+90fe5ffb-1542-487d-bbcd-71b55918174e,53,Non-binary,Ethanchester,High,815.51,Annually,2020-04-17,Mail,Major donor,Marathon
+c8dc5e14-8304-4516-a07b-00b9859b491c,31,Female,Davidville,High,614.55,Annually,2020-02-11,Online,Repeat donor,Gala
+6cc49c7d-101a-40fc-ae07-8753a462cbdc,62,Female,Lopezfort,Medium,688.58,Monthly,2023-12-19,Mail,First-time donor,Gala
+95bd38fd-c203-4dd5-9917-04e6ba6e55d2,19,Non-binary,Webbstad,Low,241.65,Annually,2020-05-19,Events,First-time donor,Marathon
+dbde1dcb-f5b3-4cb7-9a01-00702cd37589,47,Female,Danielleberg,Medium,814.36,Monthly,2022-07-14,Events,Major donor,Gala
+c3ce6cf6-13a7-424e-8e33-0d88859bbd7a,70,Non-binary,East Julieville,Medium,729.42,Monthly,2020-07-03,Online,First-time donor,Marathon
+ac10d0d7-681b-4853-a924-830298589db5,37,Non-binary,Lake Jodifort,Low,954.45,Quarterly,2020-08-03,Online,Major donor,Gala
+b23bbdee-e072-41b9-82db-a753ec9a1461,28,Male,South Trevor,Low,517.83,Annually,2022-12-03,Mail,Repeat donor,Dinner
+8cc31266-7307-4325-9fbc-7f645468f192,48,Non-binary,Stephanieberg,Low,612.35,Quarterly,2021-12-02,Mail,Repeat donor,Gala
+6b5f0c6e-a5a8-420f-bee5-d46ad263e49a,32,Female,Powellfort,Low,200.06,Monthly,2021-06-12,Mail,Repeat donor,Gala
+85bc0fe6-8b10-483d-96e1-829bb762cae0,49,Non-binary,New Sarahmouth,Medium,178.79,Quarterly,2022-01-20,Mail,Repeat donor,Auction
+3279da58-b0ec-47a5-b7d4-b5ccd0f992a9,41,Non-binary,Port Brittanyburgh,Low,860.13,Annually,2024-03-31,Events,First-time donor,Gala
+59739c43-9e84-4463-b124-8e33db7dd693,22,Male,East Donaldtown,Medium,359.3,Annually,2021-01-20,Online,First-time donor,Marathon
+641aef18-6713-46d1-98b2-713de9ce6b9a,63,Female,West Robert,Medium,627.85,Annually,2022-01-19,Mail,Major donor,Dinner
+30929269-e88f-4ef6-9c30-100926041a95,27,Female,Barnesbury,Medium,346.9,Monthly,2022-04-19,Online,First-time donor,Auction
+4268d1bd-d8ff-47b6-9394-bbfdd99088eb,74,Male,Fosterstad,High,580.72,Quarterly,2022-06-07,Mail,First-time donor,Dinner
+597f8f8a-fdc1-49e4-8dae-7edf189e6aa3,77,Male,West Rebecca,High,554.44,Annually,2020-06-04,Mail,Major donor,Marathon
+15dc6e45-7000-4ed6-a0f3-6a3d7a88af41,38,Female,West Amberside,Medium,95.22,Monthly,2023-10-15,Online,Major donor,Marathon
+302f9146-e2f2-4894-be9e-66a020b0144f,23,Female,Lake Maryfurt,Low,379.92,Annually,2022-03-23,Mail,Major donor,Dinner
+35b45b4d-7665-4f79-8e28-aae20f21f8d3,64,Non-binary,Ericmouth,High,98.75,Monthly,2021-02-05,Mail,First-time donor,Dinner
+ac707540-ccd0-4c84-b462-dcdf302c713a,26,Male,Harryburgh,High,498.36,Monthly,2022-08-25,Online,First-time donor,Marathon
+b11e8edb-b3d6-45fb-8d26-6c259d546d81,41,Non-binary,Roberttown,High,884.23,Annually,2021-02-15,Mail,First-time donor,Marathon
+3ca6fd03-e39f-4407-b17b-539b530cf482,22,Male,Maldonadochester,Low,659.46,Monthly,2024-06-05,Online,Repeat donor,Auction
+93617145-6211-4d4b-bee3-5a7d6bded4ae,45,Male,Wagnerland,Low,133.32,Quarterly,2023-10-08,Online,First-time donor,Dinner
+f6f310bc-44d7-43f2-9e5f-3721561c3a63,24,Female,Elizabethtown,Medium,936.85,Annually,2023-08-24,Mail,First-time donor,Auction
+d203c3e7-265a-4021-bb56-c473fb19bc2b,64,Female,New Robertbury,Low,367.89,Monthly,2022-01-02,Mail,First-time donor,Marathon
+69b9b2dd-5a39-4f3e-8dc0-9aac0b215ef5,62,Male,Bowersview,Low,79.83,Annually,2020-08-26,Mail,Repeat donor,Gala
+e7230d38-662a-46d7-b48c-cee4db5b6d79,64,Non-binary,Collinstown,Low,572.32,Annually,2020-01-28,Mail,First-time donor,Marathon
+cce023e4-16ef-457e-b9b5-c3803dcb9e29,63,Female,West Danielle,Medium,878.51,Monthly,2021-04-21,Online,First-time donor,Gala
+f94895d7-3141-4b93-ad3a-5091b40e52bf,64,Female,South Ashley,High,393.74,Monthly,2020-11-25,Mail,Major donor,Dinner
+58d08afa-c0a9-41d3-97ca-5e92eab21ce6,79,Female,Lake Elizabethside,Medium,49.3,Annually,2020-12-26,Mail,Repeat donor,Auction
+31864e12-cdb4-40cc-9990-48e4f337853a,46,Female,South Christopherport,High,160.41,Monthly,2023-12-12,Events,Repeat donor,Dinner
+272a5fcc-5c7e-48fe-865d-85d2c8e4d391,67,Male,Johnsonland,High,264.37,Monthly,2020-11-14,Mail,Repeat donor,Auction
+cd9bfe07-1c85-4f86-a399-97654a9b1f82,25,Male,Michaelview,Medium,494.04,Annually,2023-12-09,Events,First-time donor,Gala
+93872a74-c85f-409c-b921-5feff5f065d6,63,Male,West Andreamouth,High,993.87,Quarterly,2021-03-01,Online,First-time donor,Gala
+3de91def-b125-4904-b19b-01a99b64d5f1,27,Male,Greenbury,Medium,340.48,Annually,2021-10-19,Online,First-time donor,Gala
+2d9b6a89-b6d6-45a1-a65f-64f86be05d6f,36,Female,Port Kenneth,Medium,260.82,Quarterly,2020-10-03,Online,Repeat donor,Auction
+7e18a1a6-6cf8-4e4f-acfe-74f66bc1ad78,79,Female,East Richard,High,596.36,Annually,2024-03-04,Mail,First-time donor,Gala
+1b198c44-2568-4ceb-89df-4bc310f17c58,77,Male,South Jamesberg,Medium,635.95,Annually,2021-12-27,Online,Major donor,Dinner
+50f2d587-d633-4fdf-b8ca-0e76dca88614,73,Non-binary,North Andrea,Medium,765.58,Quarterly,2020-05-20,Events,Repeat donor,Dinner
+dbc1cedb-4e4c-43d9-bcde-2ef68aa5a83f,18,Non-binary,Lake Cynthia,Low,667.58,Quarterly,2022-01-09,Mail,First-time donor,Auction
+6743cb70-aaf5-4b66-ba0a-8aa493ddf566,40,Non-binary,Lindseystad,Medium,232.54,Quarterly,2021-08-14,Online,Repeat donor,Auction
+e762255c-6534-431a-b71d-e998d965546a,59,Female,Brianhaven,Medium,985.9,Quarterly,2021-07-16,Mail,Major donor,Marathon
+24bd8ad8-b4a0-4ba2-984d-75f91a827154,33,Non-binary,Lake Jacobshire,Medium,614.99,Quarterly,2021-02-24,Online,Repeat donor,Marathon
+2f9817f4-be62-444c-8b90-c5b68e3ea334,29,Male,Robertoland,Low,143.08,Annually,2022-02-15,Events,Repeat donor,Auction
+cdc1a8f1-820b-42ed-ab50-2fdd19c14b71,75,Non-binary,New Williamshire,Low,830.94,Annually,2022-06-04,Events,Repeat donor,Dinner
+93d0c46b-0dc6-4d69-8628-b4850c06f1c3,47,Male,Yoderville,Low,623.08,Annually,2023-10-28,Events,First-time donor,Dinner
+2c65353c-ce7e-4b8d-80e2-463a35bac5e9,59,Male,Richardsonbury,Low,260.18,Quarterly,2023-03-13,Online,Major donor,Dinner
+5af51ae2-c984-4dbd-bd98-9264e54cd059,70,Male,Kyleburgh,Low,344.84,Monthly,2020-12-10,Events,First-time donor,Gala
+8a16f585-6049-49e6-b52e-f7541ca6d060,66,Female,Beardmouth,High,209.32,Monthly,2021-09-12,Events,Repeat donor,Auction
+01b7a99d-5a95-4f0f-8946-fae7796e9d35,51,Male,Port Stephen,Medium,183.91,Monthly,2021-05-30,Online,First-time donor,Auction
+8ac948a4-10f8-4d79-b3fc-9e1d8919f333,39,Female,New Leah,Low,495.53,Quarterly,2020-09-10,Mail,Major donor,Auction
+65bceaa1-b76d-46da-ab5f-b63b33d8d50f,67,Non-binary,Wuland,High,776.19,Quarterly,2020-01-11,Events,Repeat donor,Marathon
+1f11c991-d114-40d0-8ec4-b69315eb3087,64,Female,North Diana,Low,323.41,Annually,2023-01-23,Online,Major donor,Gala
+92482543-742d-4993-8e95-a4d19fcb09a1,73,Female,East Terrifurt,High,703.71,Annually,2022-10-12,Online,Repeat donor,Auction
+86248661-d207-4275-87ad-28abf50cc513,28,Non-binary,East Tyler,High,977.88,Annually,2022-07-02,Online,Major donor,Auction
+95bd274f-f9b3-4592-9629-46199893e8d8,79,Female,West Emilyshire,Low,994.98,Quarterly,2020-05-14,Events,First-time donor,Dinner
+e035ba61-53b6-4cac-99e5-4abf4647634b,79,Non-binary,Chadburgh,High,130.21,Monthly,2024-06-17,Online,Repeat donor,Dinner
+025d7a8f-04bc-42d9-8285-8bbe3431e2e6,41,Male,Lake Catherine,High,640.18,Annually,2021-08-31,Online,Major donor,Marathon
+c2c96b33-2e05-4ed6-b82e-5e7b4f953990,29,Non-binary,Port Thomasmouth,Low,59.37,Quarterly,2021-12-21,Online,First-time donor,Auction
+26261d88-7cdd-486c-a663-faa813e1b95b,43,Male,North Jason,Low,528.07,Quarterly,2023-04-08,Online,Major donor,Auction
+fd492c80-5c84-48b9-b9d3-41e528e5b044,49,Female,Richardview,Low,735.87,Monthly,2021-01-10,Events,First-time donor,Auction
+1e6ae3a6-4b1d-4b2c-af3c-da63f1ce5a71,23,Male,Laurabury,Medium,509.84,Annually,2023-07-03,Mail,First-time donor,Marathon
+537e9823-adb1-487b-8df7-05e7a8458597,42,Non-binary,South Eileenview,Low,879.52,Quarterly,2020-04-10,Online,Major donor,Marathon
+a55c49df-c33c-4c7a-a4a5-93afc4108c31,27,Male,Kevinfurt,Medium,381.63,Quarterly,2022-03-30,Events,First-time donor,Marathon
+65048df3-c39c-4524-b6a9-973e7a6e7157,73,Non-binary,New Richardchester,Low,199.69,Monthly,2022-07-12,Mail,First-time donor,Marathon
+f89f450d-e66b-4d09-971d-22e6e07bca13,32,Non-binary,Powellland,Medium,381.49,Annually,2021-07-26,Mail,First-time donor,Auction
+8f661e06-2193-46cd-8346-b2d431fa0f7d,49,Female,Manuelton,Medium,355.75,Annually,2020-02-06,Events,First-time donor,Marathon
+0d87bbd4-bd1b-41ca-bb9d-be90f316a57b,37,Male,Watkinsfort,High,413.61,Monthly,2021-09-18,Mail,Major donor,Gala
+f820c19d-3cbe-4c44-b070-17aeff8374e9,30,Non-binary,East Tracey,High,952.53,Monthly,2024-04-21,Mail,First-time donor,Gala
+5744676f-6fec-49a1-9fe8-a44238b3c51e,18,Female,Lake Barry,Low,358.58,Monthly,2020-06-17,Online,Repeat donor,Dinner
+3a992573-2e25-4276-8722-f8ea3daa6b8c,72,Female,West Kristinaburgh,Low,807.28,Quarterly,2020-07-31,Online,Repeat donor,Gala
+4133a2cc-8452-4a72-8f4a-040639c65a08,45,Female,South Dean,Medium,536.93,Quarterly,2020-06-07,Events,Major donor,Auction
+b4db50f7-eee6-4c33-9080-f547a744e7bc,72,Non-binary,South Cody,Medium,185.7,Monthly,2023-03-24,Events,First-time donor,Auction
+8653a648-ec19-4182-be8c-4ed6c4e56ddb,70,Female,South Justinmouth,High,489.33,Annually,2020-08-13,Mail,Repeat donor,Marathon
+33c3513d-3be0-4bd9-9f6b-f5cdf1ed73f8,32,Male,North Laurenport,Low,855.73,Annually,2024-05-09,Mail,Repeat donor,Gala
+b44e6129-64fd-43d1-8490-d3bdf4f5c0a3,20,Female,West Nathanland,High,158.71,Monthly,2021-06-28,Events,First-time donor,Auction
+2dbee754-8626-4c2b-8baa-26711d8e635b,57,Female,Port Gabrielaton,Medium,177.89,Monthly,2022-07-21,Online,First-time donor,Auction
+c0b3325e-d91f-427e-b64b-ba2ba9a30452,25,Non-binary,Lake Sierra,High,742.3,Annually,2024-02-10,Mail,Repeat donor,Gala
+c18f464b-d0a6-4296-b4df-64346ee06a7e,45,Female,Susanport,High,966.56,Monthly,2022-05-28,Mail,Major donor,Dinner
+00fd8d14-20c4-4c2b-8012-d31a3119bf8a,75,Non-binary,Judyville,High,39.95,Monthly,2023-03-04,Online,Major donor,Gala
+6ad629db-4441-4f2c-9367-2eaf3da3460c,35,Non-binary,North Terriview,High,473.94,Annually,2021-06-19,Mail,Repeat donor,Gala
+7fd866c1-c76e-4ba8-8b48-f76e1affdaf4,59,Female,Kingfurt,Medium,589.16,Monthly,2021-11-23,Online,First-time donor,Dinner
+799d1f13-c8b7-47b5-a5cc-b177236c760d,35,Female,Port Jamesstad,Low,132.06,Annually,2022-04-28,Online,Repeat donor,Gala
+c57fa935-62ae-4e92-ae48-3c0ea206d491,37,Male,Bradleyport,High,342.0,Annually,2023-07-22,Mail,Major donor,Auction
+cde61634-879c-423e-bb89-c7ac8195c7f3,75,Female,Popeport,Medium,583.26,Annually,2024-01-16,Mail,Major donor,Marathon
+5d466da8-44e6-4a1d-84b9-22d47f3372dd,72,Non-binary,Lake Ashleystad,High,795.67,Monthly,2022-07-28,Mail,First-time donor,Dinner
+a034f162-c14d-4245-b529-91a13a54f6a3,31,Non-binary,Matthewton,Low,837.98,Annually,2022-02-07,Mail,Major donor,Gala
+2bb0ff40-b8c6-4b1e-a688-8675d7b10937,38,Male,Edwardtown,Low,704.91,Monthly,2023-08-19,Online,Repeat donor,Auction
+d3c7b732-8f82-4e5b-b76b-7919fa702076,42,Male,Port Jasonville,Medium,81.95,Monthly,2023-09-09,Events,Repeat donor,Gala
+b2cfb005-8fbc-4ae7-9b3f-517ae8e3dbbb,51,Male,Lake Dylan,High,649.77,Quarterly,2020-07-02,Online,Major donor,Marathon
+5e8938cc-3e37-4d3a-83e5-a218998ea624,68,Non-binary,Sharonmouth,Medium,731.51,Monthly,2020-06-02,Mail,Major donor,Gala
+d7091098-94f6-451c-8ca1-69fe12d2dafb,50,Male,Rasmussenmouth,High,353.91,Annually,2020-05-24,Mail,Major donor,Marathon
+4078c434-85ee-4921-9494-ede1f1b96c20,21,Female,Port Ericbury,High,957.07,Monthly,2023-07-06,Online,Major donor,Dinner
+f685b583-190b-4866-8e7b-9576a51f98d7,70,Female,East Loganside,Medium,858.5,Quarterly,2021-11-27,Online,Major donor,Auction
+739589f0-4137-4f90-8979-da0a858428b1,32,Male,East Stephanieborough,Medium,828.08,Annually,2020-08-21,Mail,Major donor,Dinner
+82ba9fd5-a8a4-4dd5-9f7f-ee66e6083d4d,20,Female,Greenberg,Low,73.49,Annually,2021-10-28,Events,Repeat donor,Gala
+b2b70408-6b8c-4033-96a5-e0ee4423d663,21,Non-binary,Shawnbury,High,518.1,Monthly,2020-05-10,Online,Repeat donor,Auction
+6f4cb432-2cda-4cd9-8519-aff55f87a2e6,23,Male,Laurenmouth,Medium,762.83,Annually,2024-01-08,Mail,Repeat donor,Dinner
+f7fd9472-c7ba-4f65-a5d9-c62dfd1b0d5b,21,Non-binary,Patrickview,High,35.12,Quarterly,2024-06-24,Online,First-time donor,Gala
+5a378b7f-5c88-4703-b548-c732b98e4a50,28,Non-binary,Millston,Medium,622.83,Monthly,2023-10-19,Online,Repeat donor,Dinner
+d053e1ae-be38-4f68-a652-b26656c5cb3a,70,Male,East Johnshire,Medium,972.46,Annually,2023-08-30,Mail,Major donor,Dinner
+5a37104a-7db9-49c3-a614-8c40cb23ecb4,57,Non-binary,New Amy,Low,542.35,Monthly,2020-11-15,Events,Repeat donor,Dinner
+5c870a4b-6011-4ebc-9bed-193cf89e0396,70,Male,Orrborough,Low,718.49,Quarterly,2021-05-28,Mail,First-time donor,Auction
+2afd5f2c-259f-4718-b2a9-4e6db798fd38,60,Female,East Michael,High,913.98,Monthly,2021-03-13,Online,Repeat donor,Gala
+777a6c7a-414b-4600-ad80-fc2f37653e64,40,Male,North Elizabethberg,Medium,747.48,Annually,2022-03-15,Online,First-time donor,Dinner
+e2daa9a9-a7c5-4735-b39d-a530636b8e42,63,Non-binary,Griffinshire,High,387.4,Annually,2023-05-16,Online,Repeat donor,Marathon
+51a86593-cae5-40a0-a10a-6ad7d51bcdc8,40,Male,Port Erictown,High,740.91,Quarterly,2020-12-28,Events,Major donor,Auction
+37c8e9fd-cbee-4c55-a2f2-377c399ea0ef,27,Female,Youngbury,High,891.24,Annually,2020-01-08,Events,First-time donor,Dinner
+2af84c1b-e7c9-41e3-a0d7-9207999cdc58,27,Male,South Thomaston,Medium,632.35,Monthly,2021-07-30,Mail,Major donor,Auction
+e23f69ad-91d5-4abd-8b12-e174ac7428b9,78,Female,South Amandaland,High,357.05,Monthly,2020-09-01,Online,First-time donor,Gala
+f6cbfdb2-91c6-47ce-8470-3add294a70ed,71,Male,New Darlene,Low,932.4,Annually,2023-09-03,Events,First-time donor,Auction
+903651f1-a46e-4528-8809-b366c66ad789,72,Female,North Willie,High,198.06,Monthly,2022-04-19,Online,Major donor,Dinner
+16b9e212-5230-4409-909b-e107fa1e19a9,43,Female,Kelliland,High,963.98,Monthly,2021-04-28,Mail,Repeat donor,Gala
+e09c4a3e-3d26-4537-bb68-a92b01c21e31,55,Non-binary,New Lisafurt,Low,272.24,Quarterly,2022-02-03,Online,Major donor,Gala
+217887f9-db03-4525-a413-1aeffb1a3f34,28,Male,Hooperberg,Medium,339.32,Annually,2020-05-19,Events,Repeat donor,Gala
+f95ad725-3fc0-4b80-ab9c-014f76d4bff7,77,Female,Lake Amyfurt,Low,996.66,Monthly,2022-07-16,Mail,Major donor,Gala
+1b724714-4c7c-40a5-a7a4-34692db4b3bf,26,Non-binary,Jenniferfort,Low,419.99,Quarterly,2020-10-11,Mail,Repeat donor,Marathon
+dcb05742-b48d-4dc9-9e87-df93e6149d24,77,Non-binary,Ashleyfurt,Medium,493.22,Annually,2020-10-31,Events,Repeat donor,Gala
+1354ee20-4445-4603-b132-2134c5a27400,78,Non-binary,Sarafurt,Medium,343.62,Annually,2023-06-04,Online,Repeat donor,Dinner
+634aa143-5605-41f4-a813-ac0e1b153ea8,40,Female,Simpsonburgh,Low,831.2,Quarterly,2021-08-07,Online,First-time donor,Gala
+260d3748-53b6-40c8-a009-cd677f639f08,47,Female,Port Jacob,Low,709.53,Quarterly,2022-03-05,Events,Repeat donor,Marathon
+9d75c840-3c70-43a3-9bdc-d96f48e4773b,54,Male,West Joanne,Low,394.51,Quarterly,2022-01-01,Mail,First-time donor,Marathon
+c72ef141-9e41-4c88-a31a-c73654fe1da5,21,Male,Lake Jonathan,Medium,987.02,Annually,2022-07-30,Online,Repeat donor,Gala
+db8feff2-93d5-404d-b2b7-c001c12f5917,74,Male,Kellyville,Medium,622.02,Annually,2022-09-02,Online,First-time donor,Gala
+c119afa7-2096-480a-8bd7-3ef4d65eb29f,72,Female,Zavalafort,High,381.63,Quarterly,2021-01-31,Online,First-time donor,Marathon
+1a292589-cf49-4bde-8fe4-170c149d4fad,65,Female,West Julie,Low,430.15,Monthly,2021-06-17,Online,First-time donor,Gala
+760640d1-f240-4d4f-8538-0274ab123f1f,61,Non-binary,West Stephen,High,560.32,Quarterly,2022-04-26,Online,Repeat donor,Auction
+9a62f24c-e1ff-4bc7-9bdc-16716ba67d96,72,Female,Maloneton,High,613.91,Annually,2022-11-25,Online,Repeat donor,Marathon
